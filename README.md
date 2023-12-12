@@ -23,10 +23,10 @@
     <li>Clone the repository.</li>
     <li>Set up a MySQL database and configure it in <code>config.php</code>. </li>
         <code>
-define("DB_SERVER", "");
-define("DB_USERNAME", "");
-define("DB_PASSWORD", "");
- define("DB_NAME", "");
+define("DB_SERVER", "localhost");
+define("DB_USERNAME", "root");
+define("DB_PASSWORD", "password");
+ define("DB_NAME", "m1039_platform_demo");
         </code>
     <li>Import the database schema from the provided SQL file.</li>
     <li>Host the application on a PHP-enabled server.</li>
