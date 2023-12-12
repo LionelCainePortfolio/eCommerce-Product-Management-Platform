@@ -1,0 +1,2002 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+
+
+
+<head>
+
+	<script>
+	// QOS start time must be as early as possible.
+	var QOS_PAGE_START_MS = Date.now ? Date.now() : +new Date();
+	</script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+	<meta name="google-site-verification" content="" />
+	
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0" />
+	
+	<meta name='format-detection' content='telephone=no'>
+	
+	
+	
+
+	
+		
+			<meta name="apple-mobile-web-app-capable" content="yes">
+			<meta name="apple-mobile-web-app-status-bar-style" content="white">
+			<meta name="apple-mobile-web-app-title" content="">
+			<link rel="apple-touch-icon" href="https://deo.shopeemobile.com/shopee/shopee-mall-live/images/logo-152x152.png">
+		
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	
+
+
+
+	<link href="/static/css/common_cdn.css?22dfa416e13f" rel="stylesheet">
+	<link href="/static/css/icons_cdn.css?3debdcd46352" rel="stylesheet">
+	
+	<link href="/static/css/fonts_cdn.css?7d268f1e09b3" rel="stylesheet">
+	
+	
+	<link rel="stylesheet" href="/static/css/common/web_popup_cdn.css?ff9073462c34">
+	<link rel="stylesheet" href="/static/css/common/web_popup_box_cdn.css?0afada473953">
+	
+	
+
+
+
+
+
+	
+		<meta name="title" content="SMARTWATCH V8 ZEGAREK SMART WATCH PL KARTA SIM SD Shopee Polska"/>
+		<meta name="description" content="SMARTWATCH V8 ZEGAREK SMART WATCH PL KARTA SIM SD  Gwarancja Shopee | Okazje dnia"/>
+		<link rel="canonical" href="https://shopee.pl//SMARTWATCH-V8-ZEGAREK-SMART-WATCH-PL-KARTA-SIM-SD-i.563522781.9095490106"/>
+
+
+	
+
+
+	<title>Shopee</title>
+
+
+
+	<link rel="stylesheet" href="/static/css/shop/item_cdn.css?f45b0f3bdb7f">
+	<link rel="stylesheet" href="/static/css/shop/item/shop_part_old_cdn.css?cbaf2f5b3ad9">
+	<link rel="stylesheet" href="/static/css/shop/whole_sale_cdn.css?eee6cf373e55">
+	<link rel="stylesheet" href="/static/css/home/category/user_selling_points_cdn.css?368b694aa77b">
+	
+	<link rel="stylesheet" href="/static/css/swiper.min_cdn.css?790841e62e60">
+	<link rel="stylesheet" href="/static/css/gswiper_cdn.css?995584a81a09">
+	<link rel="stylesheet" href="/static/css/popup_scroll_view_cdn.css?8efeef9f4085">
+	<link rel="stylesheet" href="/static/css/common/image_uploader_cdn.css?e00d12cdb5ea">
+	
+		<link rel="stylesheet" href="/static/css/shop/item-card-display-djangofy_cdn.css?98bd4f3733e3">
+	
+
+
+
+
+
+    <script type="text/javascript">
+    ;(function() {
+        var SCRIPT_FAIL_THRESHOLD = 90000;
+        setTimeout(function() {
+            if (window.$ || window.jQuery) {
+                // console.log("jquery has been loaded successfully");
+                return true;
+            } else {
+                // jquery is not loaded after max timeout, we considered the script has fail to load
+                // it's time to show error message
+
+                // clear whatever dom content we have
+                document.body.innerHTML = document.getElementById("tap-to-reload").innerHTML;
+                document.body.addEventListener("touchend", function() {
+                    window.location.reload(true); // reload from server, not cache
+                }, false);
+
+                // set alert message to vertical center
+                var alertMessageDom = document.getElementsByClassName("alert-message")[0];
+                var viewportHeight = document.documentElement.clientHeight;
+                alertMessageDom.style.marginTop
+                        = Math.floor((viewportHeight - alertMessageDom.style.lineHeight)/2) + "px";
+            }
+        }, SCRIPT_FAIL_THRESHOLD);
+    })();
+</script>
+<script id="tap-to-reload" type="text/template">
+    <style>
+        body {
+            vertical-align : middle;
+            text-align : center;
+        }
+        .alert-message {
+            font-size : 18px;
+            vertical-align : middle;
+            display : inline-block;
+        }
+    </style>
+    <p class="alert-message">
+        Tap to reload again
+    </p>
+</script>
+
+	<script type="text/javascript">
+	var ORIGIN_WHITE_LIST = ['www.facebook.com', 'facebook.com'];
+	function isSameOrigin() {
+		var selfHost = window.self.location.hostname;
+		var topHost = window.top.location.hostname;
+
+		if (topHost in ORIGIN_WHITE_LIST) {
+			return true;
+		}
+		// same domain, including 127.0.0.1, localhost etc
+		if (selfHost === topHost) {
+			return true;
+		}
+		// other domain not contain shopee keyword
+		if (topHost.indexOf('shopee') === -1) {
+			return false;
+		}
+		var topRootDomain = topHost.slice(topHost.indexOf('shopee'));
+		var selfRootDomain = selfHost.slice(selfHost.indexOf('shopee'));
+		return topRootDomain == selfRootDomain;
+	}
+
+	if (!isSameOrigin()) {
+		document.body.style.display = 'none';
+	} else { }
+</script>
+	<script type="text/javascript">
+
+
+
+{
+	function _getGlobals_()
+	{
+		var toRet = {};
+		try
+		{
+			for(var k in window)
+			{
+				if(window.hasOwnProperty(k))
+					toRet[k]= true;
+			}
+		}
+		catch(e){}
+		return toRet;
+	}
+	window._resetGlobals_ = function(resetTo)
+	{
+		var vars = resetTo;
+		for(var k in window)
+		{
+			if(window.hasOwnProperty(k) && vars[k] == null)
+			{
+				window[k] = null; //Note: delete doesn't work for window's fields.
+			}
+		}
+	};
+	if(navigator.userAgent.indexOf('Shopee') >= 0 && (navigator.userAgent.indexOf('iPhone') >= 0 || navigator.userAgent.indexOf('iPad') >= 0 || navigator.userAgent.indexOf('iPod') >= 0))
+	{
+		window.ORIGINAL_GLOBAL_VARS = _getGlobals_();
+	}
+	window.GTimeoutAndInterval = (function(){
+		var idsTimeout = {};
+		var idsInterval = {};
+		var funcSetTimeout = window.setTimeout;
+		var funcClearTimeout = window.clearTimeout;
+		var funcSetInterval = window.setInterval;
+		var funcClearInterval = window.clearInterval;
+
+		window.setTimeout = function(func, delay){
+			var id = funcSetTimeout(func, delay);
+			idsTimeout[id] = id;
+			return id;
+		};
+		window.clearTimeout = function(id){
+			funcClearTimeout(id);
+			delete idsTimeout[id];
+		};
+
+		window.setInterval = function(func, interval){
+			var id = funcSetInterval(func, interval);
+			idsInterval[id] = id;
+			return id;
+		};
+		window.clearInterval = function(id){
+			funcClearInterval(id);
+			delete idsInterval[id];
+		};
+
+		function clearAll(skipSelf)
+		{
+			for(var k in idsTimeout)
+				funcClearTimeout(k);
+			for(var k in idsInterval)
+				funcClearInterval(k);
+			idsTimeout = {};
+			idsInterval = {};
+			if(skipSelf) return;
+
+			window.setTimeout = funcSetTimeout;
+			window.setInterval = funcSetInterval;
+			window.clearTimeout = funcClearTimeout;
+			window.clearInterval = funcClearInterval;
+			funcSetTimeout = null;
+			funcClearTimeout = null;
+			funcClearInterval = null;
+			funcSetInterval = null;
+		}
+
+		return {
+			clearAll: clearAll,
+		};
+	})();
+
+	function hookEventTarget(target)
+	{
+		var p = target.prototype || target.__proto__;
+		if(!p) return;
+
+		p.addEventListenerBase = p.addEventListener;
+		p.addEventListener = function(type, listener)
+		{
+			if(!this.EventList) { this.EventList = {}; }
+			// This condition prevents the crash when jQueryMobile is re-evaluated after iOS cache invalidation. (Comment out this condition and force cache invalidation in iOS to see the crash in action.)
+			if(this.addEventListenerBase)
+				this.addEventListenerBase.apply(this, arguments);
+			if(!this.EventList[type]) { this.EventList[type] = []; }
+			var list = this.EventList[type];
+			for(var index = 0; index != list.length; index++)
+			{
+				if(list[index] === listener) { return; }
+			}
+			list.push(listener);
+		};
+
+		p.removeEventListenerBase = p.removeEventListener;
+		p.removeEventListener = function(type, listener)
+		{
+			if(!this.EventList) { this.EventList = {}; }
+			// This second condition prevents the crash when jQueryMobile is re-evaluated after iOS cache invalidation.
+			if((listener instanceof Function) && this.removeEventListenerBase)
+			{
+				this.removeEventListenerBase.apply(this, arguments);
+			}
+			if(!this.EventList[type]) { return; }
+			var list = this.EventList[type];
+			for(var index = 0; index != list.length;)
+			{
+				var item = list[index];
+				if(!listener)
+				{
+					this.removeEventListenerBase(type, item);
+					list.splice(index, 1); continue;
+				}
+				else if(item === listener)
+				{
+					list.splice(index, 1); break;
+				}
+				index++;
+			}
+			if(list.length == 0) { delete this.EventList[type]; }
+		};
+
+		p.removeAllEvents = function()
+		{
+			if(!this.EventList) return;
+			for(var type in this.EventList)
+			{
+				if(!this.EventList.hasOwnProperty(type)) continue;
+				var list = this.EventList[type];
+				if(!list) continue;
+				for(var j=0; j<list.length; j++)
+				{
+					this.removeEventListenerBase(type, list[j]);
+				}
+				delete this.EventList[type];
+			}
+		};
+	}
+
+	function unhookEventTarget(target)
+	{
+		var p = target.prototype || target.__proto__;
+		if(!p) return;
+
+		if(p.addEventListenerBase)
+			p.addEventListener = p.addEventListenerBase;
+		if(p.removeEventListenerBase)
+			p.removeEventListener = p.removeEventListenerBase;
+	}
+
+	try
+	{
+		// Note: Originally I wanted to do this with EventTarget.prototype...., but seems iOS doesn't expose EventTarget interface. So we have to do it one by one.
+		hookEventTarget(Window);
+		hookEventTarget(Document);
+		hookEventTarget(Element);
+	}
+	catch(e)
+	{
+		console.log('hookEventTarget.ex', e);
+	}
+}
+</script>
+
+
+
+
+	
+		
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+	var USERID = null;
+	var ALERT_LIKE_PRIVACY_MSG = false;
+	var CC_INSTALLMENT_PAYMENT_ELIGIBILITY = false;
+	var NON_CC_INSTALLMENT_PAYMENT_ELIGIBILITY = false;
+
+
+
+
+	var CURRENT_PATH = '/SMARTWATCH\u002DV8\u002DZEGAREK\u002DSMART\u002DWATCH\u002DPL\u002DKARTA\u002DSIM\u002DSD\u002Di.563522781.9095490106';
+
+	var CURRENT_SHOPID = 'None';
+	var VERSION = '';
+	var APPVER = '';
+	var LANGUAGE = 'pl';
+	var IS_FB_APP = false;
+
+	var T_EM_H = '';
+
+
+</script>
+
+
+
+<script type="text/javascript">
+
+
+	var LOCALE = 'PL';
+	var ENVIRONMENT = 'LIVE';
+	var POPTAB_FIRST = true;
+	var POPTAB_FIRST_HASHTAG = false;
+	var SHOW_TOP_SALES_TABS = true;
+
+	var ITEM_IMAGE_BASE_URL = 'https://cf.shopee.pl/file/';
+	var ITEM_VIDEO_BASE_URL = 'https://cv.shopee.pl/video/';
+	var ROOT_DOMAIN = 'shopee.pl';
+	var COOKIE_DOMAIN = 'shopee.pl';
+
+	
+	var msg_server_error = 'Błąd serwera';
+	var label_ok = 'OK';
+
+	var T_GA_ID = '';
+	var T_GA_ID_PC = '';
+	var T_FB_ID = '';
+	var T_CRITEO_ID = '';
+
+
+
+
+	var T_BI_SIG = "SPC_T_ID";
+	var T_BI_IV = "SPC_T_IV";
+	var SHOW_SHOPEE_VERIFIED_FILTER = true;
+	var SHOW_IN_PAGE_FILTER = false;
+	var MARKET_TRACKING_TOKEN_NAME = "smtt_v0";
+	var MARKET_TRACKING_TOKEN_V2_NAME = "smtt";
+	var MARKET_TRACKING_ADS_AFFILIATION_TOKEN = "sp_af";
+	var RN_BUNDLE_VERSION_COOKIE_NAME = "SPC_RNBV";
+	var PRICEZA_MERCHANT_ID = 7077;
+	var CONFIG_WALLET_KYC = false;
+	var AIRPAY_CLIENT_API_ENDPOINT = '';
+	var CONFIG_COIN_INFLATION = 1;
+	var CONFIG_CONTACT_US_NUMBER = JSON.parse('{}')['phone_number'];
+
+
+	var IS_MALL_PAGE = true;
+	var STATIC_URL = '/static/';
+	var SIMPLE_VERSION = false;
+	var DEBUG = false;
+	var LOCALHOST = false;
+	var STAGING = false;
+	var ANDROID_FRIENDLY = false;
+	var ENABLE_RATING_REPLY = true;
+	var ADULT_AGE = '18';
+	var ENABLE_LOCATION_FILTER = true;
+	var ENABLE_LOCATION_FILTER_IN_PAGE = false;
+	var CONFIG_BRANDING_SHOPEE_WALLET_AS_MY_WALLET = false;
+	var CONFIG_ENABLE_AIRPAY_BUYER_WALLET = false;
+	var CONFIG_ENABLE_SHOPEE_BUYER_WALLET_V2 = false;
+	var SHOW_SOLD_COUNT = true;
+	var OPC_CART_MUST_HAVE_ADDRESS = true;
+	var CONFIG_FLASH_SALE_NAMED_AS_FLASH_DEAL = false;
+	var SHIPPING_OPTION_FILTER = false;
+	var ENABLE_SHIPPING_FILTER_PAGE = false;
+	var CONFIG_FLASH_SALE_NAME_KEY = "flash_sale";
+	var CONFIG_OFFICIAL_SHOP_ROOT_URL = "/mall";
+	var show_from_same_shop = true;
+	var CONFIG_SHOW_FROM_SAME_SHOP_SHOW_SECTION = true;
+	var ENABLE_OFFICIAL_SHOP_FILTER = true;
+	var ENABLE_OFFICIAL_SHOP_FILTER_IN_PAGE = false;
+	var ENABLE_CC_INSTALLMENT_PAYMENT = false;
+	var ENABLE_NON_CC_INSTALLMENT_PAYMENT = false;
+	var LOWEST_PRICE_GUARANTEE_SHOP = [];
+	var INSTALLMENT_FILTER = false;
+	var CONFIG_BRAND_LIST = true;
+	var CONFIG_RW_ONE_PAGE_CHECKOUT = true;
+	var CONFIG_ENABLE_LOCAL_WALLET = false;
+	var CONFIG_DIGIT_GROUP_SYMBOL = " ";
+	var CONFIG_FREE_SHIPPING_VOUCHER = true;
+	var TRACKING_URL_PARAMS = ["smtt","smtt_v0"];
+	var MARKET_UNIVERSAL_LANDING_PAGE_PREFIX = "/universal-link";
+	var CONFIG_ROUND_TO_DECIMAL_PLACE_FOR_BUYER_WALLET = 0;
+	var DS_GEO_DOMAIN = "https://geo.idata.shopee.com";
+	var VIEW_NAME = "seo.home.views.item_seo";
+
+
+	var _gaq = [];
+
+	var _djangofy_t_ = {};
+
+	var _transify_t_ = {};
+
+	var i18njs = false;
+
+	window.criteo_q = window.criteo_q || [];
+
+	window.RN_PERCENTAGE = {"default":100,"checkout":-1};
+	window.RN_PAGE_MIN_VERSION_ANDROID = {"default":21416,"checkout":21200};
+	window.RN_PAGE_MIN_VERSION_IOS = {"default":21400,"checkout_cancel_provide_reason":24705,"checkout":21200};
+	window.RN_PAGE_MIN_VERSION_BUNDLE = {"default":0,"buy_again_improvement":4022000,"checkout_cancel_provide_reason":3033000,"new_change_payment_method_page":4010000,"order_paid":2066000,"rn_order_detail":4036000};
+
+</script>
+
+
+	<script>
+  var gtmDataLayer = [{
+	  'country': window.LOCALE.toLowerCase(),
+	  'userid': window.USERID,
+	  'source': 'mweb'
+  }];
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','gtmDataLayer','GTM-WJZQSJF');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+	<script type="text/javascript" src="/static/jsutil_min/tracking/fb_init.js?50f14702bc78" defer></script>
+	
+
+
+
+
+
+	<script type="text/javascript" src="/static/jslib_min/jslib_base.js?e14e59f052c1"></script>
+
+
+
+
+<script>
+_transify_t_["label_mil_id"] = "JT";
+_transify_t_["label_mil_ph"] = "mil";
+_transify_t_["alert_set_default_ba_failed"] = "alert_set_default_ba_failed";
+_transify_t_["label_ok"] = "OK";
+_transify_t_["label_mil_th"] = "milion";
+_transify_t_["tooltips_shipping_fee_included"] = "Jeśli chcesz negocjować opłatę za wysyłkę, to porozmawiaj ze sprzedawcą i skorzystaj w tym celu z funkcji „Złóż ofertę”.";
+_transify_t_["label_used"] = "WYKORZYSTANO";
+_transify_t_["label_used_good"] = "Używany, stan dobry";
+_transify_t_["label_years"] = "lata";
+_transify_t_["label_apps"] = "Aplikacje";
+_transify_t_["text_download_shopee_for_more_function"] = "Prosimy pobrać aplikację Shopee i skorzystać z innych funkcji!";
+_transify_t_["alert_bank_account_wallet_pin_changed"] = "Twoje konto jest w trakcie sprawdzania. Skontaktuj się z {{hotline}} w razie jakiejkolwiek pomocy ";
+_transify_t_["label_short_for_number_100000000"] = "nie dotyczy";
+_transify_t_["label_copied_failed"] = "nie udało się skopiować";
+_transify_t_["label_within_hours"] = "Kilka godzin";
+_transify_t_["label_short_for_number_10000"] = "nie dotyczy";
+_transify_t_["label_latest"] = "Najnowsze";
+_transify_t_["alert_set_rejected_account_default"] = "Nie możesz ustawić odrzuconego konta jako domyślne";
+_transify_t_["label_new_without_tags"] = "Nowości bez metek";
+_transify_t_["label_price"] = "Cena";
+_transify_t_["alert_bank_account_no_change"] = "Proszę zaktualizuj szczegóły przed zatwierdzeniem.";
+_transify_t_["label_cancel"] = "ANULUJ";
+_transify_t_["label_year_abbr"] = "r";
+_transify_t_["alert_bank_account_duplicate"] = "Nie możesz dwukrotnie utworzyć tego samego konta bankowego";
+_transify_t_["alert_bank_info_not_valid"] = "Niektóre informacje o Twoim koncie bankowym są nieprawidłowe. Wprowadź je ponownie";
+_transify_t_["label_week"] = "tydzień";
+_transify_t_["label_day"] = "dzień";
+_transify_t_["tooltips_days_to_ship"] = "Liczba dni, których potrzebuje sprzedawca do przygotowania Twojego zamówienia przed wysyłką.";
+_transify_t_["label_day_abbr"] = "d";
+_transify_t_["label_not_set"] = "Nie ustawiono";
+_transify_t_["tooltips_shipping_fee_included_my"] = "Jeśli wysyłasz do Malezji Wschodniej albo chcesz negocjować opłatę wysyłkową, to porozmawiaj ze sprzedawcą na czacie";
+_transify_t_["msg_ios_coming_soon"] = "Wkrótce w wersji na iOS…";
+_transify_t_["label_popular"] = "Popularne";
+_transify_t_["alert_delete_default_account"] = "Nie możesz usunąć domyślnego konta bankowego";
+_transify_t_["label_hour"] = "godzina";
+_transify_t_["label_within_1_day"] = "w ciągu 1 dnia";
+_transify_t_["label_prep_within"] = "W ciągu";
+_transify_t_["alert_delete_pending_account"] = "Nie możesz usunąć tego konta, ponieważ jest na nim oczekujące zamówienie/zwrot pieniędzy";
+_transify_t_["label_store_number"] = "Numer sklepu";
+_transify_t_["label_hours"] = "Godzin";
+_transify_t_["label_k_th"] = "พัน";
+_transify_t_["label_copied_successfully"] = "Kopiuj pomyślnie";
+_transify_t_["alert_bank_account_banned"] = "To konto bankowe zostało zablokowane z powodu podejrzanej aktywności. Spróbuj użyć innego konta bankowego lub skontaktuj się z Obsługą Klienta.";
+_transify_t_["label_short_for_number_1000000"] = "m";
+_transify_t_["label_new_with_defects"] = "Nowości z wadami";
+_transify_t_["label_get"] = "Pobierz teraz";
+_transify_t_["alert_bank_account_blacklisted"] = "To konto bankowe zostało umieszczone na czarnej liście z powodu podejrzanej aktywności. Spróbuj użyć innego konta bankowego lub skontaktuj się z Obsługą Klienta.";
+_transify_t_["label_k_vn"] = "k";
+_transify_t_["label_k_ph"] = "k";
+_transify_t_["alert_bank_account_reach_limit"] = "Osiągnąłeś maksymalną ilość dozwolonych kont bankowych.";
+_transify_t_["label_hour_abbr"] = "h";
+_transify_t_["label_new_others"] = "Inne nowości";
+_transify_t_["label_days"] = "dni";
+_transify_t_["label_shopee"] = "Shopee";
+_transify_t_["label_year"] = "Rok";
+_transify_t_["label_k_id"] = "RB";
+_transify_t_["label_weeks"] = "tygodnie";
+_transify_t_["label_used_like_new"] = "WYKORZYSTANO";
+_transify_t_["label_new_with_tags"] = "Nowości";
+_transify_t_["msg_server_error"] = "Błąd serwera";
+_transify_t_["label_mil_vn"] = "tr";
+_transify_t_["label_week_abbr"] = "t";
+_transify_t_["alert_bank_account_phone_changed"] = "Twoje konto jest w trakcie sprawdzania. Skontaktuj się z {{hotline}} w razie jakiejkolwiek pomocy ";
+_transify_t_["label_used_with_defects"] = "Używany z wadami";
+_transify_t_["label_short_for_number_1000"] = "K";
+_transify_t_["alert_edit_bank_account_error"] = "Można edytować tylko odrzucone konto bankowe";
+_transify_t_["label_minute_abbr"] = "m";
+_transify_t_["label_minute"] = "minuta";
+_transify_t_["label_prep_morethan"] = "Więcej niż";
+_transify_t_["label_used_acceptable"] = "Używany, stan zadowalający";
+_transify_t_["label_distance"] = "W pobliżu";
+_transify_t_["label_within_days"] = "W ciągu dni";
+_transify_t_["label_just_now"] = "Właśnie teraz";
+_transify_t_["msg_account_cool_down"] = "Ze względów bezpieczeństwa nie możemy przetworzyć Twojej prośby. Prosimy spróbować ponownie później.";
+_transify_t_["label_within_minutes"] = "W ciągu minut";
+_transify_t_["label_minutes"] = "minut(y)";
+</script>
+<script type="text/javascript" src="/static/jsutil_min/site.js?f52448745e58"></script>
+<script>
+_transify_t_["label_help_center"] = "Centrum pomocy";
+</script>
+<script type="text/javascript" src="/static/jsutil_min/help.js?a152a2c7ffa3"></script>
+
+
+
+
+
+<script>
+
+
+</script>
+
+<script type="text/template" id="shopee-action-sheet-item">
+
+<li class='action-sheet-item {% if data.disabled %}disabled{% endif %}' data-id={{data.id}}>
+	<div class='title'>
+		{{data.title}}
+	</div>
+	<div class='subtitle L12'>
+		{% if data.subtitle %}
+			{{data.subtitle}}
+		{% endif %}
+	</div>
+</li>
+
+</script>
+
+
+
+
+<script>
+
+
+</script>
+
+<script type="text/template" id="drop-down-menu-item">
+
+<li class='drop-down-menu-item {% if data.state %}drop-down-menu-item--disabled{% endif %}' data-id={{data.id}}>
+	<div class='drop-down-menu-item__content'>
+		<div class='drop-down-menu-item__content__title r14'>
+			{{data.title}}
+		</div>
+	</div>
+</li>
+
+</script>
+
+
+
+	<script>
+_transify_t_["msg_overseas_products_credit_card_only"] = "Użyj karty kredytowej lub debetowej, aby zapłacić za zagraniczne produkty.";
+_transify_t_["label_official_shops--TH"] = "Centrum handlowe Shopee";
+_transify_t_["label_ok"] = "OK";
+_transify_t_["label_official_shops--ID"] = "Centrum handlowe Shopee";
+_transify_t_["msg_app_geolocation_address"] = "Użyj aplikacji Shopee, aby ustawić geolokalizację dla tego adresu.";
+_transify_t_["label_all_categories_s"] = "WSZYSTKIE KATEGORIE";
+_transify_t_["label_online"] = "On\u002Dline";
+_transify_t_["msg_cancel_order_upgrade"] = "Przepraszamy, kupujący poprosił o anulowanie tego zamówienia. Zaktualizuj aplikację do najnowszej wersji, aby odpowiedzieć na prośbę.";
+_transify_t_["label_official_shops--PH"] = "Centrum handlowe Shopee";
+_transify_t_["label_your_activity_are_public"] = "Twoje polubienia i komentarze są obecnie widoczne dla Twoich obserwujących";
+_transify_t_["msg_offline_payment_disabled_singular"] = "__seller__ wyłączył samodzielne ustalenie między sprzedającym – kupującym:";
+_transify_t_["label_unexpected_error"] = "Wystąpił nieoczekiwany błąd. Proszę spróbować ponownie";
+_transify_t_["label_official_shops--VN"] = "Centrum handlowe Shopee";
+_transify_t_["text_retrieve_location_failed"] = "Nie udało się uzyskać lokalizacji";
+_transify_t_["msg_total_price_exceed_channel_max"] = "Limit transakcji został przekroczony (#{max_amount}). Aby uzyskać więcej informacji, skontaktuj się z naszym Działem Obsługi Klienta.";
+_transify_t_["label_official_shops--TW"] = "蝦皮商城";
+_transify_t_["label_ago"] = "__data__ temu";
+_transify_t_["text_retrieve_location"] = "Ładowanie...";
+_transify_t_["label_learn_more"] = "Dowiedz się więcej";
+_transify_t_["label_official_shops--MY"] = "Centrum handlowe Shopee";
+_transify_t_["text_waiting_for_location"] = "Oczekiwanie na lokalizację…";
+_transify_t_["msg_you_will_receive_a_phone_call"] = "Otrzymasz telefon od Shopee i zostanie Ci odczytany kod weryfikacyjny.";
+_transify_t_["msg_buyer_address_not_support_cod"] = "Płatność za pobraniem jest niemożliwa dla Twojego adresu";
+_transify_t_["msg_seller_has_blocked_you"] = "Zostałeś dodany do listy zablokowanych użytkowników, możesz sprawdzić inne produkty.";
+_transify_t_["label_filter"] = "Filtr";
+_transify_t_["label_see_other_products"] = "Zobacz inne produkty";
+_transify_t_["msg_promo_offline_no_multiple_checkouts"] = "Kod promocyjny może być wyłącznie zastosowany do zamówienia pochodzącego od jednego sprzedawcy. Edytuj swój koszyk.";
+_transify_t_["label_change_setting"] = "Zmień ustawienie";
+_transify_t_["msg_payment_channel_banned_category"] = "Przepraszamy, __payment_channel__ został wyłączony, ponieważ Twój koszyk zawiera produkty z kategorii __category__.";
+_transify_t_["label_age_control_ok_customize"] = "MAM POWYŻEJ __{age}__";
+_transify_t_["label_age_control_msgs_customize"] = "Musisz mieć przynajmniej __{age}__ lat, a–by oglądać zawartość. Potwierdź swój wiek:";
+_transify_t_["label_search_in"] = "Szukaj w";
+_transify_t_["label_chat"] = "Czat";
+_transify_t_["label_call_me"] = "Zadzwoń";
+_transify_t_["label_active_date_ago"] = "Aktywny __data__ temu";
+_transify_t_["label_m"] = "m";
+_transify_t_["label_edit_product"] = "Edytuj produkt";
+_transify_t_["label_cart"] = "Koszyk";
+_transify_t_["msg_total_price_below_min_amount"] = "Wymagana minimalna kwota do zapłaty to __min_amount__. Skorzystaj z innej metody płatności w tym przypadku.";
+_transify_t_["msg_cod_not_all_supported_logistic"] = "Nie wszyscy dostawcy usług logistycznych obsługują płatność za pobraniem.";
+_transify_t_["msg_cod_temporarily_suspended"] = "Płatność za pobraniem została tymczasowo zawieszona, wybierz inną metodę płatności.";
+_transify_t_["msg_pls_update_apps"] = "Zaktualizuj swoją aplikację, aby użyć tej funkcji.";
+_transify_t_["label_like"] = "Polubienie";
+_transify_t_["label_cancel"] = "ANULUJ";
+_transify_t_["label_official_shops--SG"] = "Centrum handlowe Shopee";
+_transify_t_["msg_download_shopee_google"] = "Pobierz Shopee na Google Play, aby użyć tej funkcji.";
+_transify_t_["label_follow"] = "Obserwuj";
+_transify_t_["msg_server_error"] = "Błąd serwera";
+_transify_t_["label_search_within_category"] = "Szukaj \u0022#{searchText}\u0022 w #{categoryName}";
+_transify_t_["msg_payment_option_maintenance"] = "System __channelname__ jest obecnie w trakcie przerwy technicznej. Wybierz inną opcje płatności.";
+_transify_t_["label_age_control_no_customize"] = "NIE MAM JESZCZE __{age}__";
+_transify_t_["msg_order_total_exceed_cod_maximum"] = "Twoje zamówienia przekroczyły limit przesyłki za pobraniem (__cod_limit__). Rozdziel swoje zamówienia lub wybierz inną metodę płatności dla tej transakcji.";
+_transify_t_["label_km"] = "km";
+_transify_t_["alert_follow_limit"] = "Osiągnąłeś maksymalny limit obserwujących.";
+_transify_t_["label_following"] = "Obserwowane";
+_transify_t_["alert_follow_too_frequent"] = "Osiągnąłeś maksymalny dzienny limit obserwujących. Spróbuj ponownie jutro.";
+_transify_t_["label_within"] = "w ciągu";
+_transify_t_["label_share"] = "Udostępnij";
+_transify_t_["msg_total_price_exceed_credit_card_max"] = "Dokonanie płatności nie powiodło się (C07): Ups, przekroczyłeś maksymalną kwotę, jaką można zapłacić kartą kredytową. Wybierz inną opcję płatności.";
+_transify_t_["label_more_than_200km_away"] = "ponad 200km stąd";
+_transify_t_["msg_promo_code_no_offline_payment"] = "Samodzielne ustalenie między kupującym\u002Dsprzedającym jest niedozwolone, gdy zastosowano kod promocyjny.";
+</script>
+<script type="text/javascript" src="/static/jsutil_min/jsutil_base.js?aff8bb220f6e"></script>
+
+
+
+	<script type="text/javascript" src="/static/jslib/jquery.mobile.custom.min.js?ef4d69c9fa8a"></script>
+
+
+<script type="text/javascript" src="/static/pagejs_min/config.js?d5c0b1924e6e"></script>
+<script type="text/javascript" src="/static/pagejs_min/server_constant.js?37aee91816df"></script>
+
+
+	<script type="text/javascript" src="/static/jsutil_min/BJBridgeReceiver.js?24289f32da65"></script>
+	
+
+	<script>
+_transify_t_["msg_facebook_please_copy_link"] = "Skopiuj następujący adres URL i wklej go do Safari, aby go otworzyć. Przepraszamy za niedogodności.";
+_transify_t_["label_search_within"] = "Wyszukaj w obrębie";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/common/deep_linking.js?4a2abc21a6a0"></script>
+	<script type="text/javascript" src="/static/jslib/velocity.min.js?8fb122e8a4ed"></script>
+	<script type="text/javascript" src="/static/jsutil_min/multi_target_event_dispatcher.js?4cea87015ce8"></script>
+	<script type="text/javascript" src="/static/pagejs_min/common/app_header_controller.js?82ad3ee47128"></script>
+	<script type="text/javascript">
+		$(function() {
+			AppHeaderController.init($('.header'));
+		});
+		
+		
+		
+		window.criteo_q.push({ event: "setSiteType", type: isPC() ? "d" : "m" });
+		
+	</script>
+
+	
+
+
+
+
+	
+	
+	<script type="text/template" id="shipping-option-template">
+		<div class="slide-out-select-option R14 black87 slide-out-shipping-option" data-channelid="#{channelid}">
+			<div>#{channelName}</div>
+			:
+			<div class="option-original-shipping-fee l14">#{originalShippingFee}</div>
+			<div class="option-shipping-fee r14">#{shippingFee}</div>
+			<div class="label_shipping_promotion_tw_x #{shippingPromotionControl}">#{shippingPromotion}</div>
+		</div>
+	</script>
+	<script type="text/template" id="shipping-option-with-delivery-time-template">
+		<div class="slide-out-select-option R14 black87 slide-out-shipping-option" data-channelid="#{channelid}">
+			<div>#{channelName}</div>
+			:
+			<div class="option-original-shipping-fee l14">#{originalShippingFee}</div>
+			<div class="option-shipping-fee r14">#{shippingFee}</div>
+			<div class="label_shipping_promotion_tw_x #{shippingPromotionControl}">#{shippingPromotion}</div>
+			<div class="option-delivery-time">(#{deliveryTime})</div>
+		</div>
+	</script>
+	<script type="text/template" id="delivery-item-djangofy-template">
+		
+		<div class='delivery-item'>
+			<div class='top-line'>
+				<div class='delivery-name'>
+					{{channel.name}}
+				</div>
+				<div class='delivery-price {% if channel.discounted_price %}{% else %}normal{% endif %}'>
+					{{channel.price}}
+				</div>
+				{% if channel.discounted_price %}
+				<div class='delivery-price-discounted'>
+					{{channel.discounted_price}}
+				</div>
+				{% endif %}
+			</div>
+			{% if channel.delivery_time %}
+			<div class='delivery-time'>
+				{{channel.delivery_time}}
+			</div>
+			{% endif %}
+			{% if channel.delivery_text %}
+			<div class='delivery-text'>
+				{{channel.delivery_text}}
+			</div>
+			{% endif %}
+		</div>
+		
+	</script>
+	<script>
+	
+		_djangofy_t_['label_lowest_price_title'] = "Najniższa cena gwarantowana";
+		_djangofy_t_['label_lowest_price_text--ID'] = "Znalazłeś tańszą opcję? Odbierz BEZPŁATNY kupon!";
+		_djangofy_t_['label_lowest_price_text--MY'] = "Znalazłeś tańszą opcję? Odbierz DARMOWE monety!";
+		_djangofy_t_['label_lowest_price_text--PH'] = "Znalazłeś tańszą opcję? Odbierz DARMOWE monety!";
+		_djangofy_t_['label_lowest_price_text--SG'] = "Znalazłeś tańszą opcję? Odbierz BEZPŁATNY kupon!";
+		_djangofy_t_['label_lowest_price_text--TH'] = "Znalazłeś tańszą opcję? Odbierz BEZPŁATNY kupon!";
+		_djangofy_t_['label_lowest_price_text--TW'] = "Znalazłeś tańszą opcję? Odbierz BEZPŁATNY kupon!";
+		_djangofy_t_['label_lowest_price_text--VN'] = "Znalazłeś tańszą opcję? Odbierz BEZPŁATNY kupon!";
+	
+	</script>
+	<script type="text/template" id="lowest-price-guarante-djangoy">
+	
+		<div class='lowest-price {{item_type}}'>
+			<div class='lowest-price-title'>
+				<span class='title-text r14'>
+					{% transify 'label_lowest_price_title' %}
+				</span>
+				<span class='ic_help'>
+					<span class='tapable-area'>
+					</span>
+				</span>
+			</div>
+			<div class='promote-parts'>
+				<span class='promote-parts-text r12'>
+					{% transify 'label_lowest_price_text--{{LOCALE}}' %}
+				</span>
+				<span class='ic_arrow_right_black'>
+				</span>
+			</div>
+		</div>
+	
+	</script>
+	<script type="text/javascript">
+		
+			var cb_option = false;
+			var new_product_design = true;
+			var show_from_same_shop = true;
+			var is_wholesale_open = true;
+			var CONFIG_SHOW_SOLD_COUNT = true;
+			var CONFIG_OFFICIAL_SHOP_RED_THEME = true;
+			var SHOW_SHIPPING_FEE_PANEL =  false;
+
+			
+				
+					var twitter_text = "Check out {{product_name}} for {{price}}. Get it on Shopee now! {{product_link}} #ShopeeSG";
+				
+			
+			
+
+		
+	</script>
+	<script type="text/javascript" src="/static/jslib/swiper.jquery.min.js?f63325953f1b"></script>
+	<script type="text/javascript" src="/static/jslib/shopee_lib/ShopeeLib.ShippingFeeInfoService.js?89f8f4c346d0"></script>
+	<script type="text/javascript" src="/static/jslib/shopee_lib/ShopeeLib.TimeService.js?941d4cb79260"></script>
+	<script type="text/javascript" src="/static/jslib/shopee_lib/ShopeeLib.DeliveryTime.js?d927fa4092c8"></script>
+	<script>
+_transify_t_["label_shipping_delivery_time_exact"] = "Dni wysyłki __time__";
+_transify_t_["label_to"] = "Do";
+_transify_t_["label_receive_in_time_exact"] = "Odbiór w ciągu __ days__ dni";
+_transify_t_["label_receive_in_time_range_rapid"] = "Odbiór w ciągu __from__–__to__ godzin";
+_transify_t_["label_delivery_time_exact"] = "__time__ dni";
+_transify_t_["label_shipping_delivery_time_range"] = "Dni wysyłki __mintime__\u002D__maxtime__";
+_transify_t_["label_delivery_time_range"] = "__mintime__ – __maxtime__ dni";
+_transify_t_["label_estimated_delivery_date"] = "Przewidywany termin dostawy";
+_transify_t_["label_receive_in_time_range"] = "Odbiór w ciągu __from__–__to__ dni";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/common/delivery_time_transify.js?89da03203441"></script>
+
+	
+		<script type="text/javascript" src="/static/jslib/dash.all.min.js?24253cc5d186"></script>
+	
+
+
+
+<script type="text/javascript" src="/static/pagejs_min/home/popup_scroll_view.js?1cbfd844c0de"></script>
+
+<script type="text/javascript" src="/static/jsutil_min/gswiper.js?a256602f7bc1"></script>
+<script type="text/javascript" src="/static/jsutil_min/BJCacher.js?7bc6843e692f"></script>
+<script type="text/javascript" src="/static/pagejs_min/shop/sharing.js?7a346ca11f75"></script>
+
+
+	<script>
+_transify_t_["msg_promotion__rule__order_total__TH"] = "msg_promotion__rule__order_total__TH";
+_transify_t_["msg_promotion__hint__order_total__TW"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__delta__capped__up_to"] = "Do __delta__ z wysyłki";
+_transify_t_["msg_promotion__rule__from_min_order_total__simple_ph"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__prompt__order_total__TW__cb"] = "Zamówienie ze sklepu __shopName__ musi przekroczyć __minOrderTotal__ , aby skorzystać z __deltaPhrase__ na __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__location_group"] = "__deltaPhrase__ dla zamówień powyżej __minOrderTotal__ w grupie __buyerLocationGroupName__ w sklepie __shopName__ przez __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__PH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__w sklepie __shopName__ przez __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__simple__SG"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__ruleset"] = "__rulePhrases__";
+_transify_t_["msg_promotion__ruleset__min_spend__icon__simple__VN"] = "__rulePhrases__ z minimalną wydaną kwotą __icon__";
+_transify_t_["msg_promotion__hint__order_total__VN"] = "Kupuj__minOrderTotal__, odbierz__deltaPhrase__";
+_transify_t_["msg_promotion__prompt__order_total__TW"] = "Zamówienie ze sklepu __shopName__ musi przekroczyć __minOrderTotal__ , aby skorzystać z __deltaPhrase__ na __channelNames__";
+_transify_t_["msg_promotion__delta__flat_rate"] = "__delta__ ryczałt dla wysyłki";
+_transify_t_["msg_promotion__ruleset__simple__VN"] = "__rulePhrases__";
+_transify_t_["msg_promotion__rule__order_total__simple__PH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__PH__cb"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["label_shipping_discount"] = "Zniżka na dostawę";
+_transify_t_["msg_promotion__delta__percentage"] = "__delta__% zniżki na wysyłkę";
+_transify_t_["msg_promotion__prompt__order_total__SG"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__ruleset__simple"] = "__rulePhrases__";
+_transify_t_["msg_promotion__rule__simple"] = "__deltaPhrase__";
+_transify_t_["label_welcome_package_shipping_discount"] = "label_welcome_package_shipping_discount";
+_transify_t_["msg_promotion__delta__free_shipping"] = "Darmowa dostawa";
+_transify_t_["msg_promotion__rule__from_min_order_total__simple_my"] = "__deltaPhrase__ dla zamówień powyżej __minOrderTotal__";
+_transify_t_["msg_promotion__rule__order_total__simple"] = "__deltaPhrase__ dla zamówień powyżej __minOrderTotal__";
+_transify_t_["msg_promotion__prompt__order_total__MY__cb"] = "Korzystaj z __deltaPhrase__ przy minimalnym zakupie na__minOrderTotal__";
+_transify_t_["msg_promotion__ruleset__fsv"] = "Użyj kuponu na darmową wysyłkę, aby otrzymać __rulePhrases__";
+_transify_t_["msg_promotion__rule__from_min_order_total__simple_id"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__rule__order_total__SG"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal____ dla __channelNames__";
+_transify_t_["msg_promotion__prompt__order_total__MY"] = "Korzystaj z __deltaPhrase__ przy minimalnym zakupie na__minOrderTotal__";
+_transify_t_["msg_promotion__delta__percentage_with_cap"] = "__delta__% zniżki na wysyłkę (limit do __cap__)";
+_transify_t_["msg_promotion__prompt__order_total__PH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__w sklepie __shopName__ przez __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__simple__TH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__MY__cb"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__delta__capped"] = "__delta__ zniżki na wysyłkę";
+_transify_t_["msg_promotion__prompt__order_total__PH__cb"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__w sklepie __shopName__ przez __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__simple__VN"] = "__deltaPhrase__ dla zamówień od __minOrderTotal__";
+_transify_t_["msg_promotion__prompt__order_total__SG__cb"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__delta__discounted_amount"] = "__delta__ dla wysyłki";
+_transify_t_["msg_promotion__ruleset__capped__simple"] = "__rulePhrases__ (max. __delta__)";
+_transify_t_["msg_promotion__ruleset__fsv__simple"] = "__rulePhrases__";
+_transify_t_["label_tap_for_more_shipping_promotion"] = "Stuknij, aby zobaczyć więcej promocji wysyłkowych";
+_transify_t_["msg_promotion__rule__from_min_order_total__simple_th"] = "__deltaPhrase__ przy min. wydanej kwocie __minOrderTotal__";
+_transify_t_["msg_promotion__rule__from_min_order_total__simple"] = "__deltaPhrase__ na zamówienia od __minOrderTotal__";
+_transify_t_["msg_promotion__rule__channel_names"] = "__deltaPhrase__ dla __channelNames__";
+_transify_t_["msg_promotion__hint__order_total__MY"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__hint__order_total__TW__cb"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion_min_order_total__rule__channel_names"] = "Powyżej __minOrderTotal__, __deltaPhrase__ dla __channelNames__";
+_transify_t_["msg_promotion__ruleset__VN"] = "__rulePhrases__ (limit do d 40,000)";
+_transify_t_["msg_promotion__rule__order_total__location_group__simple"] = "__deltaPhrase__ dla zamówień powyżej__minOrderTotal__ w grupie __buyerLocationGroupName__";
+_transify_t_["msg_promotion__hint__order_total__PH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__ruleset__capped__simple__VN"] = "__rulePhrases__ (max. __delta__)";
+_transify_t_["msg_promotion__cart__order_total__ID"] = "__deltaPhrase__ przy min. wydanej kwocie powyżej__minOrderTotal__. Tapnij, aby uzyskać więcej informacji.";
+_transify_t_["msg_promotion__delta__qualified_for_shipping_subsidy"] = "Kwalifikuje się na dofinansowanie do wysyłki";
+_transify_t_["msg_promotion__rule__order_total"] = "__deltaPhrase__ dla zamówień powyżej __minOrderTotal__ w sklepie __shopName__ przez__channelNames__";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/buyer/cart/module/shipping_fee_v2.js?cc887ad006d1"></script>
+	<script type="text/javascript" src="/static/pagejs_min/common/module/address_picker.js?2874a488f302"></script>
+	<script type="text/template" id="recommend_product_template">
+
+<div class="recommend-product clickable_area" data-url="/item/?sid={{item.shopid}}&iid={{item.itemid}}"
+	 data-from="{{item.from}}" data-info="{{item.info}}" data-index={{item.itemIndex}}
+	 data-shopid="{{item.shopid}}" data-itemid="{{item.itemid}}">
+	<img src="{{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn">
+	<div class="recommend-product-price r10">
+		<span class="dollarfy_sign" val="{{item.currency}}"></span><span class="dollarfy_ext_int unit-price" currency="{{item.currency}}" unit-price="{{item.price}}">{{item.price}}</span>
+		{% if item.price_min != item.price_max %}
+			<span>-</span>
+			<span class="dollarfy_sign" val="{{item.currency}}"></span><span class="dollarfy_ext_int unit-price" currency="{{item.currency}}" unit-price="{{item.price}}">{{item.price_max}}</span>
+		{% endif %}
+	</div>
+	<div class='itemName' style='display:none'>{{item.name}}</div>
+	<div class="status_band">
+		{% if item.item_status == "new" %}
+			{% include "shop/badges/badge_new.html"%}
+		{% endif %}
+		{% if item.price_before_discount %}
+			{% include "shop/badges/badge_promotion.html"%}
+		{% endif %}
+	</div>
+</div>
+
+</script>
+
+	
+
+<script>
+
+_djangofy_t_['label_see_more'] = "zobacz więcej";
+
+</script>
+
+<script type="text/template" id="recommend_product_see_all_template">
+
+
+<div class="recommend-product-see-all recommend-product clickable_area see-all" data-index={{item.itemIndex}}
+	 style="background-image: url({{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn)">
+	<div class="mask middle-centered-div">
+		<div class="see-all-text-wrapper">
+			<span class="r14 capitalize">{% transify 'label_see_more' %}</span>
+			<span class="ic_arrow_right_white"></span>
+		</div>
+	</div>
+</div>
+
+
+</script>
+
+	<script type="text/template" id="attributes-row-template">
+
+	<div class='tr middle-centered-div' data-attribute-name="{{attribute.name}}" data-attribute-id="{{attribute.id}}" data-attribute-value="{{attribute.value}}">
+		<div class='r14 th attribute-name' >
+			<div class="attribute-name__content">{{attribute.name}}</div>
+		</div>
+		<div class="td heavy L14 flex1">
+			<div class="text short middle-centered-div">
+				<div class="flex1 attribute-value">
+					<div class="attribute-value__content">{{attribute.value}}</div>
+				</div>
+				{% if attribute.not_tapable %}
+				{% else %}
+				<span class="ic_icon ic_arrow_right {% if ANDROID_FRIENDLY %}hidden{% endif %}"></span>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+
+</script>
+
+	
+
+
+<script>
+
+_djangofy_t_['label_promotion_off'] = "OFF";
+
+</script>
+
+<script type="text/template" id="badge-promotion">
+
+{% if item.discount %}
+<div class="badge-fixed-width badge-promotion">
+	{% if LOCALE == "TW" %}
+	<div class="badge-promotion-percent L12 promotion-tw">
+		<span class="percent">{{item.discount}}</span><span class="badge-promotion-off-label L12 promotion-tw">{% transify 'label_promotion_off' %}</span>
+	</div>
+	{% else %}
+	<div class="badge-promotion-percent L12">
+		{% if LOCALE == "TH" %}
+		<span class="badge-promotion-off-label L12">{% transify 'label_promotion_off' %}</span><span class="percent">{{item.discount}}</span>
+		{% else %}
+		<span class="percent">{{item.discount}}</span><span class="badge-promotion-off-label {% if LOCALE == 'IR' %}L10{% else %}L12{% endif %}">{% transify 'label_promotion_off' %}</span>
+		{% endif %}
+	</div>
+	{% endif %}
+</div>
+{% endif %}
+
+</script>
+
+	
+
+
+<script>
+
+_djangofy_t_['label_promotion_new'] = "Nowości";
+
+</script>
+
+<script type="text/template" id="badge-new">
+
+<div class="badge-fixed-width badge-new">
+    {% if LOCALE == "TW" %}
+    <div class="badge-new-label m10">{% transify 'label_promotion_new' %}</div>
+    {% else %}
+    <div class="badge-new-label m12">{% transify 'label_promotion_new' %}</div>
+    {% endif %}
+</div>
+
+</script>
+	<script type="text/template" id="price_template">
+		
+<div>
+	{% if price_before_discount %}
+		<div class="price-before-discount l14"><span class="dollarfy_sign" currency="{{currency}}" val="{{currency}}"></span><span class="dollarfy_val" currency="{{currency}}" val="{{price_before_discount}}"></span></div>
+	{% endif %}
+	{% if price_max == -1 %}
+	<span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}"></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price}}"></span>
+	{% else %}
+		{% if price_min == price_max %}
+		<span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}">></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price}}"></span>
+		{% else %}
+		<span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}">></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price_min}}"></span><span class="r18">&nbsp;-&nbsp;</span><span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}">></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price_max}}"></span>
+		{% endif %}
+	{% endif %}
+	{% if can_use_wholesale %}<span class="price__wholesale-label hidden">[{% transify 'label_wholesale' %}]</span>{% endif %}
+</div>
+
+	</script>
+	
+
+<script>
+
+_djangofy_t_['label_stock'] = "W magazynie";
+_djangofy_t_['label_select_variation'] = "Wybierz wariant";
+_djangofy_t_['label_quantity'] = "Ilość";
+_djangofy_t_['label_BUYNOW'] = "kup teraz";
+_djangofy_t_['label_confirm'] = "potwierdź";
+_djangofy_t_['label_wholesale_price_available'] = "Dostępna cena hurtowa";
+_djangofy_t_['label_wholesale'] = "Sprzedaż hurtowa";
+
+</script>
+
+<script type="text/template" id="model_panel_template">
+
+<div class='top-part-panel'>
+	<div class='item-image'>
+		<img src='{{ITEM_IMAGE_BASE_URL}}{{image}}'/>
+	</div>
+	<div class='price-stock'>
+		<div class='price r18' id='price_value'>
+			{% include "shop/item/price.html" %}
+		</div>
+		<div class='stock {{ hide_stock_cls }}'>
+			<span class='L14'>{% transify 'label_stock' %}</span><span>:</span>
+			<span class='L12' id='stock_value'>{{stock}}</span>
+		</div>
+	</div>
+	<div class='close-btn ic_model_close'>
+	</div>
+</div>
+<div class='scrollable-holder'>
+	<div class='scrollable'>
+		{% if models %}
+            {% if tier_variations %}
+                {% if tier_variations|length > 0 %}
+                <div class='variations'>
+                    <div class='variation__title title r14'>{{ tier_variations.0.name }}</div>
+                    <ul class='options-list'>
+                        {% for opt in tier_variations.0.options %}
+                        <li class='variation L12' data-tier={{ 1 }} data-index={{ opt.index }}>{{ opt.option }}
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+                {% if tier_variations|length > 1 %}
+                <div class='variations'>
+                    <div class='variation__title title r14'>{{ tier_variations.1.name }}</div>
+                    <ul class='options-list'>
+                        {% for opt in tier_variations.1.options %}
+                        <li class='variation L12' data-tier={{ 2 }} data-index={{ opt.index }}>{{ opt.option }}
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            {% else %}
+            <div class='models'>
+                <div class='models__title title r14'>{% transify 'label_select_variation' %}</div>
+                <ul class='models-list'>
+                    {% for model in models %}
+                        {% if model.stock == 0 %}
+                            <li class='model L12 disabled'>{{model.name}}
+                        {% else %}
+                        <li class='model L12 {% if models|length == 1 %} selected {% endif %}' data-stock={{model.stock}} data-modelid={{model.modelid}} data-price='{{model.price}}' data-currency='{{model.currency}}'>{{model.name}}
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+		{% endif %}
+		<div class='quantity'>
+			<div class='title r14'>{% transify 'label_quantity' %}{% if can_use_wholesale %}<div class='quantity__wholesale-tips'>{% transify 'label_wholesale_price_available' %}</div>{% endif %}</div>
+			<div class='minus clickable_area'>
+				<div class='ic_minus'>
+				</div>
+			</div>
+			<div class='number i48 number--withinput'>
+				<input class='count' id='quantity_value' value=1 type='number' {% if is_wholesale_open %}{% else %}readonly{% endif %}></input>
+			</div>
+			<div class='plus clickable_area'>
+				<div class='ic_plus'>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% if from_cart %}
+	<div class='btn-bottom-holder center-container'>
+		<div id='ok-button' class='btn-bottom clickable_area'>{% transify 'label_confirm' %}</div>
+	</div>
+{% else %}
+	<div class='btn-bottom-holder center-container'>
+		<div id='ok-button' class='btn-bottom clickable_area {% if models %} disable {% endif %}'>{% transify 'label_BUYNOW' %}</div>
+	</div>
+{% endif %}
+
+</script>
+	
+
+<script>
+
+_djangofy_t_['label_promotion_sold'] = "wyprzedane";
+_djangofy_t_['label_promotion_out'] = "Dostępne";
+_djangofy_t_['label_grey_badge_sold'] = "wyprzedane";
+_djangofy_t_['label_grey_badge_out'] = "Dostępne  ";
+
+</script>
+
+<script type="text/template" id="badge_soldout_djangofy">
+
+<div class="badge-fixed-width badge-soldout">
+	{% if LANGUAGE == "vi" %}
+		<div class="badge-sold-label m10">{% transify 'label_promotion_sold' %}</div>
+		<div class="badge-out-label m10">{% transify 'label_promotion_out' %}</div>
+	{% else %}
+		{% if LANGUAGE == "th" %}
+			<div class="badge-sold-label m10">{% transify 'label_grey_badge_sold' %}</div>
+			<div class="badge-out-label m10">{% transify 'label_grey_badge_out' %}</div>
+		{% else %}
+			{% if LANGUAGE == "id" %}
+				<div class="badge-sold-label m10">{% transify 'label_promotion_sold' %}</div>
+			{% else %}
+				{% if LANGUAGE == "zhHant" %}
+					<div class="badge-sold-label m10">{% transify 'label_promotion_sold' %}</div>
+				{% else %}
+					<div class="badge-sold-label m12">{% transify 'label_promotion_sold' %}</div>
+				{% endif %}
+			{% endif %}
+			{% if LANGUAGE != "id" %}
+				{% if LANGUAGE != "zhHant" %}
+					<div class="badge-out-label m12">{% transify 'label_promotion_out' %}</div>
+				{% endif %}
+			{% endif %}
+		{% endif %}
+	{% endif %}
+</div>
+
+</script>
+	
+
+<script>
+
+_djangofy_t_['label_view_shop'] = "Wyświetl sklep";
+_djangofy_t_['label_product'] = "Produkt";
+_djangofy_t_['label_products'] = "produkty";
+_djangofy_t_['label_reviews'] = "Oceny";
+_djangofy_t_['label_positive_reviews'] = "Pozytywne opinie";
+_djangofy_t_['label_chat_response'] = "Odpowiedź na chacie";
+_djangofy_t_['label_rating'] = "Ocena";
+_djangofy_t_['label_reviews'] = "Oceny";
+_djangofy_t_['label_n_a'] = "Brak";
+_djangofy_t_['label_shopee_verified_seller'] = "Sprzedawca wyróżniony przez Shopee";
+
+</script>
+
+<script type="text/template" id="shop_part_template">
+
+<div class='shop-part {% if isSeller %} isSeller {% endif %} {{LOCALE}}' data-shopid='{{shop.shopid}}' data-username='{{shop.account.username}}'>
+	{% if isShop %}
+	{% else %}
+	<a href='/shop/#shopid={{shop.shopid}}' username='{{shop.account.username}}' userid='{{shop.userid}}'>
+	{% endif %}
+		<div class='top-holder'>
+			<div class='avatar-box'>
+				{% if shop.account.portrait %}
+					<img src='{{ITEM_IMAGE_BASE_URL}}{{shop.account.portrait}}_tn'/>
+				{% else %}
+					<img src='/static/images/ic_avatar_default@2x.png'/>
+				{% endif %}
+				<div class='shopee-verified ic_product_details_verifiedseller'></div>
+				<div class='official-shop-mark ic_product_details_shopeemall'></div>
+			</div>
+			<div class='center-box'>
+				<div class='head-line m15 truncate'>
+					{{shop.account.username}}
+				</div>
+				<div class='gray-line r12 {% if isInactive %}inactive{% endif %}'>
+					<div class="ic_exclamation_mark"></div>
+					<span data-lastlogin="{{shop.account.last_active_time}}"></span>
+				</div>
+			</div>
+			<div class='view-box {% if isPC %}isPC{% endif %} r12' data-shopid={{shop.shopid}}>
+				<span>{% transify 'label_view_shop' %}</span>
+			</div>
+		</div>
+		<ul class='bottom-holder {% if isPC %}isPC{% endif %} {% if isAndroid %}isAndroid{% else %}isIOS{% endif %}'>
+			{% if isPC %}
+				<li class='products-box' data-shopid={{shop.shopid}} data-username='{{shop.account.username}}'>
+					<div class='space'></div>
+					<div class='box-left'>
+						<span class='icon ic_detail_product_web'>
+						</span>
+					</div>
+					<div class='box-right'>
+						<div class='number m18'>{{shop.item_count}}</div>
+						{% if shop.item_count <= 1 %}
+							<div class='text'>{% transify 'label_product' %}</div>
+						{% else %}
+							<div class='text'>{% transify 'label_products' %}</div>
+						{% endif %}
+					</div>
+					<div class='space'></div>
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='reviews-box' data-shopid={{shop.shopid}} data-userid={{shop.userid}}>
+					<div class='space'></div>
+					<div class='box-left'>
+						<span class='icon ic_profile_buyerrating_1'>
+						</span>
+					</div>
+					<div class='box-right r12'>
+						{% if shop.total_avg_star %}
+							<div class='number m18'>{{shop.total_avg_star}}</div>
+							<div class='text'>{% transify 'label_rating' %}</div>
+						{% else %}
+							<div class='number m18'>{% transify 'label_n_a' %}</div>
+							<div class='text'>{% transify 'label_rating' %}</div>
+						{% endif %}
+					</div>
+					<div class='space'></div>
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='response-rate-box'>
+					<div class='space'></div>
+					<div class='box-left'>
+						<span class='icon ic_detail_response_web'>
+						</span>
+					</div>
+					<div class='box-right r12'>
+						<div class='number m18'>{{shop.response_rate}}</div>
+						<div class='text'>{% transify 'label_chat_response' %}</div>
+					</div>
+					<div class='space'></div>
+				</li>
+			{% else %}
+				<li class='products-box' data-shopid={{shop.shopid}} data-username='{{shop.account.username}}'>
+					<div class='box-above'>
+						<span class='icon ic_detail_product'>
+						</span>
+						<span class='text m14'>{{shop.item_count}}</span>
+					</div>
+					{% if shop.item_count <= 1 %}
+						<div class='box-lower r12'>{% transify 'label_product' %}</div>
+					{% else %}
+						<div class='box-lower r12'>{% transify 'label_products' %}</div>
+					{% endif %}
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='reviews-box' data-shopid={{shop.shopid}} data-userid={{shop.userid}}>
+					{% if shop.total_avg_star %}
+						<div class='box-above'>
+							<span class='icon ic_profile_buyerrating_1'>
+							</span>
+							<span class='text m14'>{{shop.total_avg_star}}</span>
+						</div>
+						<div class='box-lower r12'>{% transify 'label_rating' %}</div>
+					{% else %}
+						<div class='box-above'>
+							<span class='icon ic_profile_buyerrating_1'>
+							</span>
+							<span class='text m14'>{% transify 'label_n_a' %}</span>
+						</div>
+						<div class='box-lower r12'>{% transify 'label_rating' %}</div>
+					{% endif %}
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='response-rate-box'>
+					<div class='box-above'>
+						<span class='icon ic_detail_response'>
+						</span>
+						<span class='text m14'>{{shop.response_rate}}</span>
+					</div>
+					<div class='box-lower r12'>{% transify 'label_chat_response' %}</div>
+				</li>
+			{% endif %}
+		</ul>
+	{% if isShop %}
+	{% else %}
+	</a>
+	{% endif %}
+</div>
+
+</script>
+
+	
+
+<script>
+
+_djangofy_t_['label_whole_sale_price'] = "Cena przy sprzedaży hurtowej";
+_djangofy_t_['label_quantity'] = "Ilość";
+_djangofy_t_['label_unit_price'] = "Cena jednostkowa";
+
+
+</script>
+
+<script type="text/template" id="whole_sale_djangofy">
+
+<div class='whole-sale-section'>
+	<div class='title r14'>
+		<span class='ic_wholesale'></span>{% transify 'label_whole_sale_price' %}
+	</div>
+	<div class='whole-sale-container'>
+		<div class='whole-sale-container__row whole-sale-container__row--header'>
+			<div class='whole-sale-container__row__col r12'>{% transify 'label_quantity' %}</div>
+			<div class='whole-sale-container__row__col r12'>{% transify 'label_unit_price' %}</div>
+		</div>
+		{% for row in data %}
+			<div class='whole-sale-container__row'>
+				{% if row.max_count %}
+					<div class='whole-sale-container__row__col r14'>{{row.min_count}} - {{row.max_count}}</div>
+				{% else %}
+					<div class='whole-sale-container__row__col r14'>&ge;{{row.min_count}}</div>
+				{% endif %}
+				<div class='whole-sale-container__row__col r14 right'>
+					<span class="dollarfy_sign" dir="ltr"  val="{{currency}}"></span>
+					<span class="dollarfy_ext_int"  currency="{{currency}}">{{row.price}}</span>
+				</div>
+			</div>
+		{% endfor %}
+	</div>
+</div>
+
+</script>
+
+	
+		
+
+
+<script type="text/template" id="item-card-display">
+
+<div class='item-card-display clickable_area' data-shopid={{item.shopid}} data-itemid={{item.itemid}} data-is_adult={% if item.is_adult %}1{% else %}0{% endif %} data-index={{item.itemIndex}}>
+	<div class='image-wrapper'>
+        {% if item.image %}
+            <img src='{{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn' alt='{{item.name}}' title='{{item.name}}'/>
+        {% endif %}
+		{% if item.has_lowest_price_guarantee %}
+			<div class='lowest-price ic_lowest_price_small {{LOCALE}}'></div>
+		{% endif %}
+		<div class='status_band'>
+			{% if item.item_status == "new" %}
+				{% include "shop/badges/badge_new.html" %}
+			{% endif %}
+			{% if item.item_status == "sold_out" %}
+				{% include "shop/badges/badge_soldout.html" %}
+			{% endif %}
+			{% if item.price_before_discount %}
+				{% include "shop/badges/badge_promotion.html" %}
+			{% endif %}
+		</div>
+		<div class="item-labels">
+			{% if item.show_official_shop_label_in_normal_position %}
+					<div class='official-shop ic_productlist_officialshop ic_productlist_officialshop--{{LOCALE}}'></div>
+			{% endif %}
+			{% if item.show_shopee_verified_label %}
+				<div class='shopee-verified ic_productlist_verified ic_productlist_verified--{{LOCALE}}'></div>
+			{% endif %}
+			{% if item.can_use_wholesale %}
+				<div class='wholesale-product ic_productlist_wholesale ic_productlist_wholesale--{{LOCALE}}'></div>
+			{% endif %}
+		</div>
+		{% if item.videos %}
+		<div class='product-video ic_productlist_video'></div>
+		{% endif %}
+	</div>
+	<div class='text item-info-wrapper'>
+		<div class='top-line'>
+            <div class='title r12 truncate itemName'>{% if item.show_official_shop_label_in_title %}<div class="official_productcard_label official_productcard_label--{{LOCALE}}"></div>{% endif %}{% if item.name %}{{item.name}}{% endif %}</div>
+            <div class="freeshiping {% if item.show_free_shipping %}{% else %}hidden{% endif %}">
+                <div class="ic_free_shipping_green free-shipping-icon"></div>
+            </div>
+        </div>
+		<div class='price truncate'>
+			{% if item.price_before_discount %}
+				{% if item.price_min_before_discount == item.price_max_before_discount %}
+					{% if item.price_min == item.price_max %}
+						{% if item.price_before_discount != item.price %}
+							<span class="price-before-discount r12">
+								<span dir="ltr" class="dollarfy_sign" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price_before_discount}}</span>
+							</span>
+						{% endif %}
+					{% endif %}
+				{% endif %}
+			{% endif %}
+			<span class='price-final r12'>
+				<span class="dollarfy_sign" dir="ltr" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price}}</span>
+				{% if item.price_min != item.price_max %}
+					<span>-</span>
+					<span class="dollarfy_sign" dir="ltr" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price_max}}</span>
+				{% endif %}
+			</span>
+		</div>
+	</div>
+	<div class="item-status">
+		<div class="likes">
+			<div class="icon_like {% if item.liked %}ic_offerlist_liked{% else %}ic_offerlist_like{% endif %}"></div>
+			<span class="number r12 fix-size" style="width: 20px; height: 17px;">{% if item.liked_count %}{{item.liked_count}}{% else %}0{% endif %}</span>
+		</div>
+
+
+
+
+
+
+
+<div class="item_rating" style="{{item.rating_inline_style}}"><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star {{item.star_cls_0}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_1}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_2}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_3}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_4}}"></div></div><div class="item_rating__rating-info__count r10">{{item.rating_count_display}}</div></div></div>
+
+
+	</div>
+	<div class='itemName' style='display:none;'>{{item.name}}</div>
+</div>
+
+
+</script>
+
+		
+
+<script>
+
+_djangofy_t_['label_see_more'] = "zobacz więcej";
+_djangofy_t_['label_see_all'] = "Zobacz wszystkie";
+
+</script>
+
+<script type="text/template" id="item-card-display-see-more">
+
+<div class='item-card-display item-card-display--see-more see-all clickable_area' data-shopid={{item.shopid}} data-itemid={{item.itemid}} data-is_adult={% if item.is_adult %}1{% else %}0{% endif %} data-index={{item.itemIndex}}>
+
+	{% if item.covered_see_all %}
+	<div class="covered_see-all">
+		<div class="see-all-wrapper">
+			<div class="see-all-icon ic_shopee_seeall"></div>
+			<div class="see-all-label capitalize r12">{% if item.show_see_all_text_as_see_more %}{% transify "label_see_more" %}{% else %}{% transify "label_see_all" %}{% endif %}</div>
+		</div>
+	</div>
+	{% endif %}
+
+	<div class="mask middle-centered-div">
+		<div class="see-all-text-wrapper">
+			<span class="r14 capitalize">{% if item.show_see_all_text_as_see_more %}{% transify 'label_see_more' %}{% else %}{% transify 'label_see_all' %}{% endif %}</span>
+			<span class="ic_arrow_right_white"></span>
+		</div>
+	</div>
+
+	<div class='image-wrapper'>
+		<img src='{{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn' alt="{{item.name}}" title="{{item.name}}"/>
+	</div>
+	<div class='text item-info-wrapper'>
+		<div class='top-line'>
+			<div class='title r12 truncate itemName'>
+				{{item.name}}
+			</div>
+			<div class="freeshiping {% if item.show_free_shipping %}{% else %}hidden{% endif %}">
+				<div class="ic_free_shipping_green free-shipping-icon"></div>
+			</div>
+		</div>
+		<div class='price truncate'>
+			{% if item.price_before_discount %}
+				{% if item.price_before_discount != item.price %}
+					<span class="price-before-discount r12">
+						<span dir="ltr" class="dollarfy_sign" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price_before_discount}}</span>
+					</span>
+				{% endif %}
+			{% endif %}
+			<span class='price-final r12'>
+				<span class="dollarfy_sign" dir="ltr" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price}}</span>
+			</span>
+		</div>
+	</div>
+	<div class="item-status">
+		<div class="likes">
+			<div class="icon_like ic_offerlist_like"></div>
+			<span class="number r12 fix-size" style="width: 20px; height: 17px;">{{item.liked_count}}</span>
+		</div>
+
+
+<div class="item_rating" style="{{item.rating_inline_style}}"><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star {{item.star_cls_0}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_1}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_2}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_3}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_4}}"></div></div><div class="item_rating__rating-info__count r10">{{item.rating_count_display}}</div></div></div>
+
+
+	</div>
+</div>
+
+</script>
+
+	
+
+	<script>
+_transify_t_["label_flashsale_n_sold"] = "Sprzedano: __n__";
+_transify_t_["label_flashsale_selling_out"] = "Wyprzedaż";
+_transify_t_["label_flash_sale_amount_sold_out_in_1_hour"] = "Sprzedano {amount} w {n} godzinę";
+_transify_t_["label_flash_sale_amount_sold_out_in_n_hours"] = "Sprzedano {amount} w {n} godzin(y)";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/home/flash_sale_utils.js?02b1ec81e844"></script>
+
+	
+<script type="text/javascript" src="/static/jsutil_min/ImageViewer.js?6ee56c9eb426"></script>
+
+	<script type="text/javascript" src="/static/pagejs_min/common/track_item_card_scroll-domify.js?0bdb6970fa51"></script>
+
+	<script>
+_transify_t_["msg_server_error"] = "Błąd serwera";
+_transify_t_["msg_item_not_available"] = "Wybrany przez Ciebie przedmiot jest w tym momencie niedostępny.";
+_transify_t_["msg_cart_limit_per_shop_hit"] = "Nie możesz już dodawać więcej produktów z tego sklepu.";
+_transify_t_["label_tag_out_of_stock"] = "Wyprzedany";
+_transify_t_["label_buy"] = "kup teraz";
+_transify_t_["msg_item_has_been_added_to_cart"] = "Ten przedmiot został dodany do Twojego koszyka.";
+_transify_t_["label_add_to_cart"] = "Do koszyka";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/shop/item_web.js?cde5822faf35"></script>
+	
+
+<script>
+_transify_t_["msg_promotion__hint__order_total__TW"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__SG__cb"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__rule__order_total__simple__SG"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_added_to_your_favorite"] = "Polubiony";
+_transify_t_["label_learn_more"] = "Dowiedz się więcej";
+_transify_t_["label_chat_to_offer"] = "Czatuj";
+_transify_t_["msg_promotion__hint__order_total__TH"] = "__deltaPhrase__przy min. wydanej kwocie powyżej __minOrderTotal__";
+_transify_t_["msg_promotion__delta__percentage"] = "__delta__% zniżki na wysyłkę";
+_transify_t_["msg_lowest_price_guarantee"] = "Adres URL do tego produktu i wiadomość żądania została skopiowana do Twojego schowka. Wklej poniższy czat w celu żądania kuponu Shopee.";
+_transify_t_["label_mark_as_sold"] = "Oznacz jako sprzedane";
+_transify_t_["label_selected"] = "Zaznaczone";
+_transify_t_["label_day"] = "dzień";
+_transify_t_["label_lowest_price_guarantee--SG"] = "Cześć, znalazłem tę pozycję po niższej cenie niż __{item}__ na konkurencyjnej platformie i chciałbym otrzymać kupon.";
+_transify_t_["msg_real_inactive_sellers_popup"] = "Ten produkt jest tymczasowo niedostępny, ponieważ sprzedawca nie był aktywny przez ponad __deep_inactive__ dni. Zamiast tego sugerujemy rozmowę z sprzedawcą.";
+_transify_t_["label_address_not_supported"] = "Nieobsługiwany adres";
+_transify_t_["msg_flash_deal_has_ended"] = "Okazje Dnia zakończyły się. Dziękujemy za wzięcie udziału!";
+_transify_t_["label_ago"] = "__data__ temu";
+_transify_t_["btn_go_back"] = "Wróć";
+_transify_t_["label_shipping_option_unsupported"] = "Opcja wysyłki nie jest obsługiwana.";
+_transify_t_["msg_promotion__hint__order_total__TW__cb"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__MY"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["label_you_have_n_offers"] = "Masz __number__ oferty";
+_transify_t_["msg_promotion__delta__percentage_with_cap"] = "__delta__% zniżki na wysyłkę (limit do __cap__)";
+_transify_t_["label_this_product_delete"] = "Ten produkt został usunięty.";
+_transify_t_["label_lowest_price_guarantee--ID"] = "Chcę otrzymać kupon Shopee, ponieważ znalazłem tańszą opcję od tego produktu __{item}__";
+_transify_t_["msg_promotion__rule__order_total__location_group__simple"] = "__deltaPhrase__ dla zamówień powyżej__minOrderTotal__ w grupie __buyerLocationGroupName__";
+_transify_t_["label_you_have_n_offer"] = "Masz __number__ ofertę";
+_transify_t_["msg_get_up_to_number_coins_singular"] = "Kupuj i zarabiaj do__number__ monety Shopee";
+_transify_t_["label_rating"] = "Ocena";
+_transify_t_["label_promotion_off"] = "OFF";
+_transify_t_["label_free_shipping_cap"] = "Darmowa dostawa";
+_transify_t_["msg_shocking_sale_has_ended"] = "Szokująca Wyprzedaż zakończyła się. Dziękujemy za wzięcie udziału!";
+_transify_t_["msg_flash_sale_has_ended"] = "Flash Deals dobiegła końca. Dziękujemy za wzięcie udziału!";
+_transify_t_["msg_promotion__rule__order_total__PH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__w sklepie __shopName__ przez __channelNames__";
+_transify_t_["msg_sold_count_tooltip"] = "Sprzedaże zakończone w ciągu ostatnich 30 dni.";
+_transify_t_["msg_promotion__hint__order_total__VN"] = "Kupuj__minOrderTotal__, odbierz__deltaPhrase__";
+_transify_t_["msg_promotion__delta__flat_rate"] = "__delta__ ryczałt dla wysyłki";
+_transify_t_["label_see_more_camel"] = "Zobacz więcej";
+_transify_t_["msg_buy_btn_pop"] = "Pobierz teraz Shopee za darmo i korzystaj z zakupów jak nigdy przedtem!";
+_transify_t_["msg_your_product_under_review"] = "Twój produkt jest w trakcie przeglądu.";
+_transify_t_["label_n_sold"] = "__n__ sprzedawane miesięcznie";
+_transify_t_["msg_product_out_of_stock"] = "Ten produkt jest niedostępny.";
+_transify_t_["msg_inactive_sellers_popup_buy_anyway"] = "Kup mimo to";
+_transify_t_["msg_get_number_coins"] = "Kupuj i zarabiaj __number__ monety Shopee";
+_transify_t_["label_from_same_shop"] = "Z tego samego sklepu";
+_transify_t_["msg_promotion__rule__order_total__simple__TH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__delta__capped"] = "__delta__ zniżki na wysyłkę";
+_transify_t_["msg_deleted_from_your_favorite"] = "Niepolubione";
+_transify_t_["label_flashsale_n_sold_item_detail"] = "__n__\u003Cspan\u003Esprzedano\u003C/span\u003E";
+_transify_t_["label_cancel"] = "ANULUJ";
+_transify_t_["label_lowest_price_guarantee--TH"] = "Chcę otrzymać kupon Shopee, ponieważ znalazłem tańszą opcję od tego produktu __{item}__";
+_transify_t_["msg_the_product_you_are_looking_for_does_not_exist"] = "Produkt, którego szukasz nie istnieje.";
+_transify_t_["label_share"] = "Udostępnij";
+_transify_t_["msg_promotion__delta__qualified_for_shipping_subsidy"] = "Kwalifikuje się na dofinansowanie do wysyłki";
+_transify_t_["label_lowest_price_guarantee--TW"] = "Chcę otrzymać kupon Shopee, ponieważ znalazłem tańszą opcję od tego produktu __{item}__";
+_transify_t_["label_unmark_as_open_to_sell"] = "Oznacz jako wystawione na sprzedaż";
+_transify_t_["label_ok"] = "OK";
+_transify_t_["msg_promotion__rule__order_total__location_group"] = "__deltaPhrase__ dla zamówień powyżej __minOrderTotal__ w grupie __buyerLocationGroupName__ w sklepie __shopName__ przez __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__ID"] = "__deltaPhrase__ dla zamówień od __minOrderTotal__ u sprzedawcy w sklepie __shopName__";
+_transify_t_["msg_upgrade_app_to_play_video"] = "Zaktualizuj aplikację, aby odtworzyć wideo.";
+_transify_t_["msg_get_up_to_number_coins"] = "Kupuj i zarabiaj do __number__ monet Shopee";
+_transify_t_["msg_promotion__delta__free_shipping"] = "Darmowa dostawa";
+_transify_t_["label_you_may_also_like"] = "Może Ci się także spodobać";
+_transify_t_["msg_get_number_coins_singular"] = "Kupuj i zarabiaj __number__ monetę Shopee";
+_transify_t_["msg_promotion__hint__order_total__ID"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__hint__order_total__MY__cb"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["text_this_product_has_been_deleted"] = "Ten produkt został usunięty.";
+_transify_t_["label_ratings"] = "Oceny";
+_transify_t_["msg_promotion__hint__order_total__TH__cb"] = "__deltaPhrase__przy min. wydanej kwocie powyżej __minOrderTotal__";
+_transify_t_["msg_promotion__hint__location_not_supported"] = "__deltaPhrase__ nie jest obsługiwane dla wybranej lokalizacji";
+_transify_t_["label_lowest_price_guarantee--MY"] = "I want to claim Shopee Coins because I found a cheaper option than this product __{item}__";
+_transify_t_["msg_shipping_fee_help"] = "To jest tylko zwykła opłata za wysyłkę, rzeczywista kwota może być wyższa w zależności od adresu odbioru. Aby dowiedzieć się jaka jest ostateczna opłata za wysyłkę, odnieś się do kwoty wskazanej na stronie płatności po wprowadzeniu adresu odbioru.";
+_transify_t_["label_lowest_price_guarantee--VN"] = "Chcę otrzymać kupon Shopee, ponieważ znalazłem tańszą opcję od tego produktu __{item}__";
+_transify_t_["msg_promotion__rule__order_total__TH"] = "msg_promotion__rule__order_total__TH";
+_transify_t_["msg_promotion__delta__capped__up_to"] = "Do __delta__ z wysyłki";
+_transify_t_["msg_promotion__ruleset"] = "__rulePhrases__";
+_transify_t_["msg_inactive_sellers_popup"] = "Sprzedawca nie była aktywny przez ponad __date__ dni. Rozważ napisanie do sprzedawcy przed zakupem.";
+_transify_t_["label_unexpected_error"] = "Wystąpił nieoczekiwany błąd. Proszę spróbować ponownie";
+_transify_t_["msg_promotion__hint__order_total__PH__cb"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["label_response_rate_text"] = "Wskaźnik odpowiedzi pokazuje, jak często sprzedawca odpowiada na wiadomości.";
+_transify_t_["msg_promotion__hint__order_total__SG"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_no_ratings_yet"] = "Brak ocen";
+_transify_t_["msg_coin_earn_tooltip"] = "Zarabiaj monety Shopee, aby wymieniać je w przyszłych zakupach. Każde __coinNo__ zarobionych monet można wymieni na __cashUnit__.";
+_transify_t_["label_edit_product"] = "Edytuj produkt";
+_transify_t_["msg_promotion__delta__discounted_amount"] = "__delta__ dla wysyłki";
+_transify_t_["label_comment"] = "Komentarz";
+_transify_t_["msg_promotion__rule__order_total__simple__PH"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__ID__cb"] = "{{deltaPhrase}} przy zamówieniu za minimum {{minOrderTotal}}";
+_transify_t_["msg_promotion__rule__order_total__SG"] = "__deltaPhrase__ przy min. zamówieniu za__minOrderTotal____ dla __channelNames__";
+_transify_t_["msg_the_quantity_bigger"] = "Ilość musi być większa niż 0.";
+_transify_t_["label_report_this_product"] = "Zgłoś ten produkt";
+_transify_t_["msg_shopee_verified_txt"] = "Wyróżnieni sprzedawcy są rozpoznawani w Shopee jako sprzedawcy niezmiennie zapewniający świetne usługi i produkty.";
+_transify_t_["msg_server_error"] = "Błąd serwera";
+_transify_t_["label_lowest_price_guarantee--PH"] = "Chcę otrzymać monety Shopee, ponieważ znalazłem tańszą opcję dla tego produktu: __{item}__";
+_transify_t_["msg_promotion__ruleset__VN"] = "__rulePhrases__ (limit do d 40,000)";
+_transify_t_["label_pre_order_ships_in_n_days"] = "Przedsprzedaż (wysyłka za __n__ dni)";
+_transify_t_["msg_the_quantity_smaller"] = "Przepraszamy, nie ma wystarczającej ilości w magazynie.";
+_transify_t_["msg_promotion__rule__order_total"] = "__deltaPhrase__ dla zamówień powyżej __minOrderTotal__ w sklepie __shopName__ przez__channelNames__";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/shop/item.js?12d7123b2176"></script>
+
+
+
+
+<script src="/static/jslib/base/ShopeeLib.priceza.js?00e2a36db560"></script>
+
+
+
+	
+	
+		<meta property='og:type' content=''/>
+		<meta property='og:title' content='SMARTWATCH V8 ZEGAREK SMART WATCH PL KARTA SIM SD'/>
+		<meta property='og:image' content='https://cf.shopee.pl/file/76c53b7317c9364d8943dd6801fed700'/>
+		<meta property='og:description' content='Check this out at 1% off! zł99.00 only. Download Shopee app now: http://goo.gl/cHM73K'/>
+
+		
+			
+				<meta property='og:url' content='http://shopee.pl//SMARTWATCH-V8-ZEGAREK-SMART-WATCH-PL-KARTA-SIM-SD-i.563522781.9095490106'/>
+			
+		
+
+		<meta property='twitter:card' content='summary_large_image'/>
+		<meta property='twitter:title' content='SMARTWATCH V8 ZEGAREK SMART WATCH PL KARTA SIM SD'/>
+		<meta property='twitter:image' content='https://cf.shopee.pl/file/76c53b7317c9364d8943dd6801fed700'/>
+		<meta property='twitter:description' content='Check this out at 1% off! zł99.00 only. Download Shopee app now: http://goo.gl/cHM73K'/>
+	
+
+	
+
+
+	<link rel="alternate" href="android-app://copm.shopee.pl/shopeepl/home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLnBsL1NNQVJUV0FUQ0gtVjgtWkVHQVJFSy1TTUFSVC1XQVRDSC1QTC1LQVJUQS1TSU0tU0QtaS41NjM1MjI3ODEuOTA5NTQ5MDEwNj9zcF9hdGs9ZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1Jl9nc3JjPWh0dHBzJTNBLy9zaG9wZWUucGwvU01BUlRXQVRDSC1WOC1aRUdBUkVLLVNNQVJULVdBVENILVBMLUtBUlRBLVNJTS1TRC1pLjU2MzUyMjc4MS45MDk1NDkwMTA2JTNGc3BfYXRrJTNEZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1In19XX0%3D" />
+	<link rel="alternate" href="ios-app://1569764124/shopeepl/home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLnBsL1NNQVJUV0FUQ0gtVjgtWkVHQVJFSy1TTUFSVC1XQVRDSC1QTC1LQVJUQS1TSU0tU0QtaS41NjM1MjI3ODEuOTA5NTQ5MDEwNj9zcF9hdGs9ZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1Jl9nc3JjPWh0dHBzJTNBLy9zaG9wZWUucGwvU01BUlRXQVRDSC1WOC1aRUdBUkVLLVNNQVJULVdBVENILVBMLUtBUlRBLVNJTS1TRC1pLjU2MzUyMjc4MS45MDk1NDkwMTA2JTNGc3BfYXRrJTNEZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1In19XX0%3D" />
+
+	
+	
+	<meta property="al:ios:url" content="shopeepl://home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLnBsL1NNQVJUV0FUQ0gtVjgtWkVHQVJFSy1TTUFSVC1XQVRDSC1QTC1LQVJUQS1TSU0tU0QtaS41NjM1MjI3ODEuOTA5NTQ5MDEwNj9zcF9hdGs9ZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1Jl9nc3JjPWh0dHBzJTNBLy9zaG9wZWUucGwvU01BUlRXQVRDSC1WOC1aRUdBUkVLLVNNQVJULVdBVENILVBMLUtBUlRBLVNJTS1TRC1pLjU2MzUyMjc4MS45MDk1NDkwMTA2JTNGc3BfYXRrJTNEZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1In19XX0%3D" />
+    <meta property="al:ios:app_store_id" content="1569764124" />
+    <meta property="al:android:url" content="shopeepl://home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLnBsL1NNQVJUV0FUQ0gtVjgtWkVHQVJFSy1TTUFSVC1XQVRDSC1QTC1LQVJUQS1TSU0tU0QtaS41NjM1MjI3ODEuOTA5NTQ5MDEwNj9zcF9hdGs9ZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1Jl9nc3JjPWh0dHBzJTNBLy9zaG9wZWUucGwvU01BUlRXQVRDSC1WOC1aRUdBUkVLLVNNQVJULVdBVENILVBMLUtBUlRBLVNJTS1TRC1pLjU2MzUyMjc4MS45MDk1NDkwMTA2JTNGc3BfYXRrJTNEZjhkZTZlN2ItZTcyMC00NGViLTkzMDEtNWJiNjMwNTMxYTc1In19XX0%3D" />
+    <meta property="al:android:package" content="copm.shopee.pl" />
+
+</head>
+<body>
+
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJZQSJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+	
+		
+
+<div class="header ">
+	
+	<div class='inner middle-centered-div'>
+		
+		<div class='icon_left ic_icon  ic_arrow_back clickable_area'>
+		</div>
+		
+
+		
+		<div class="search-bar flex1 hidden">
+			<div class="search-bar-input-wrapper middle-centered-div flex1">
+				<div class="ic_search ic_icon"></div>
+				<form class='search_form flex1' action='.'>
+					<input class="search-input flex1 L12" type='search'>
+				</form>
+				<div class='dropdown-holder'>
+					<div class='dropdown-content one r12'>
+					</div>
+					<div class='dropdown-content two r12'>
+					</div>
+				</div>
+			</div>
+			<div class="search-bar-space-holder flex1 hidden page_name L16">
+				
+			</div>
+			<div class="ic_search_red ic_icon hidden clickable_area"></div>
+		</div>
+		<div class="no-search-bar-holder center-nav flex1">
+			<div class="search-bar-space-holder flex1 page_name L16 truncate">
+			</div>
+		</div>
+		
+
+		
+
+		
+			
+		
+		
+		<div class='second-panel'>
+			<a href='/buyer/login/signup/'>
+				<div class='signup-btn'>Zarejestruj się</div>
+			</a>
+			<a href='/buyer/login/'>
+				<div class='login-btn'>Zaloguj się</div>
+			</a>
+		</div>
+		
+        <div class="clearfix"></div>
+	</div>
+</div>
+<div class='header-holder '>
+</div>
+<div class='body-mask'>
+</div>
+<div class='lure-hold'>
+	<div class='close_btn but_no_close' onclick='hideProm()'>
+	</div>
+
+    <div class='dogi-logo'>
+        <div class='ic_logo_get'></div>
+    </div>
+
+	<div class='show-text L13'>
+	</div>
+	<div class='bottom'>
+
+
+        <div class="get_app_btns_wrapper">
+            <div class="full">
+                <a id='get_app_link' target='_blank' href='' class='btn'>Pobierz teraz</a>
+            </div>
+            <div class="half"><a id='get_ios_app_link' target='_blank' href='' class='btn' onclick="_track_download_ios();">
+                    <div class="ic_IPhone icon"></div>
+                    <div>iPhone</div>
+                </a>
+            </div><div class="half"><a id='get_android_app_link' target='_blank' href='' class='btn' onclick="_track_download_android();">
+                    <div class="ic_Android icon"></div>
+                    <div>Android</div>
+                </a></div>
+
+        </div>
+
+	</div>
+</div>
+
+	
+
+	<div class="shopee-confirm-modal hidden">
+</div>
+<div class="shopee-confirm hidden">
+	<div class="confirm-title">
+		<div class="content"></div>
+	</div>
+	<div class="confirm-message">
+		<div class="content"></div>
+	</div>
+	<div class="confirm-button-holder middle-centered-div">
+		<div class="confirm-button cancel" data-button-id="1"></div>
+		<div class="flex1" data-button-id="0"></div>
+		<div class="confirm-button ok" data-button-id="0"></div>
+	</div>
+</div>
+
+	<div class="shopee-action-sheet-mask"></div>
+<div class="shopee-action-sheet-container center-container isPC">
+</div>
+
+	
+
+<div id='pin-popup'>
+	<div class='popup'>
+		<div class='title r16'>
+		</div>
+		<div class='message r16'>
+		</div>
+		<div class='digit-holder'>
+			<div class='digit-input'>
+			</div><div class='digit-input'>
+			</div>
+		</div>
+		<div class='btn-holder'>
+			<div class='cancelText' data-button-id=1>
+			</div><div class='okText' data-button-id=0>
+			</div>
+		</div>
+	</div>
+	<div class='digit-keyboard'>
+		<div class='digit-row'>
+			<div class='digit r14'>1</div><div class='digit r14'>2</div><div class='digit r14'>3</div>
+		</div>
+		<div class='digit-row'>
+			<div class='digit r14'>4</div><div class='digit r14'>5</div><div class='digit r14'>6</div>
+		</div>
+		<div class='digit-row'>
+			<div class='digit r14'>7</div><div class='digit r14'>8</div><div class='digit r14'>9</div>
+		</div>
+		<div class='digit-row'>
+			<div class='digit r14'></div><div class='digit r14'>0</div><div class='delete r14'>Usuń</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+	<div class='page-holder center-container show-from-same-shop' id='item-page' itemscope
+			itemtype="http://schema.org/Product"><div class='top-part'><div class="top-image-container"><div class="top-image-container-inner"><div id='top-image'><div class='soldout_mask middle-centered-div flex-justify-center r18'><div><div style='margin-top:4px;'></div><div class="badge-sold-label r16">wyprzedane</div><div class="badge-out-label r16">DOSTĘPNE</div></div></div><meta itemprop="image" content="https://cf.shopee.pl/file/76c53b7317c9364d8943dd6801fed700"/><div class="swiper-container image"><div class="swiper-wrapper"><div class="swiper-slide imgs_hold"><div class='ic_default'></div></div></div><div class="swiper-pagination"></div><div class="swiper-button-prev" style="display:none;"></div><div class="swiper-button-next" style="display:none;"></div></div></div></div></div><div class="flash-sale-header hidden"><div class="left"><div class="ic_product_flashsale ic_product_flashsale--PL"></div><div class="price-wrapper"><div class="flash-sale-item__price-before-discount truncate "><span class="dollarfy_sign l12"
+								val=""></span><span class="dollarfy_ext_int l12" currency=""></span></div><div class="flash-sale-item__price"><span class="dollarfy_sign m14" val=""></span><span
+								class="dollarfy_ext_int m20" currency=""></span></div></div></div><div class="right"><div class="flash-sale-stock m14"></div><div class="count-down"><div class="count-down__label uppercase l12">kończy się za</div><div class="count-down__timer timer m13" data-end-time=""><div class="timer__hours digits"><div class="digits__1 digit ic_buy_digit transit"></div><div class="digits__2 digit ic_buy_digit transit"></div></div><div class="timer__colon ic_white_dian"></div><div class="timer__mins digits"><div class="digits__1 digit ic_buy_digit up-to-5 transit"></div><div class="digits__2 digit ic_buy_digit transit"></div></div><div class="timer__colon ic_white_dian"></div><div class="timer__secs digits"><div class="digits__1 digit ic_buy_digit up-to-5 transit"></div><div class="digits__2 digit ic_buy_digit transit"></div></div></div></div></div></div><div class='lowest-price-container-flash-for'></div><div class='item-title'><div class="video-placeholder hide visibility-hidden"><span class="ic_productlist_video"></span></div><meta itemprop="name" content="SMARTWATCH V8 ZEGAREK SMART WATCH PL KARTA SIM SD"/><div id='title-name' class='title r16'><div class="official_detail_label official_detail_label--PL hidden"></div>&nbsp;
+				</div><div class='price' itemprop="offers" itemscope itemtype="http://schema.org/Offer"><meta itemprop="priceCurrency" content="PLN"/><meta itemprop="price" content="99.0"/><link itemprop="availability" href="http://schema.org/InStock"><div class='price-inner m16 middle-centered-div' id='item-price'><div class="price-before-discount m16"></div><span class="dollarfy_sign m18" dir="ltr"></span><span class="dollarfy_val m18" currency="" val=""></span></div><div class='lowest-price-container'></div><div class="review-row L14"><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div></div><div class="item_rating__rating-info__score L14"></div><div class="item_rating__rating-info__count L14"></div></div><div class="sold-info hidden truncate"><div class="table-truncate-container"><div class="table-truncate-content truncate"><span class="sold-info__content l14"></span></div><div class="table-truncate-spacer"><span class="l14"></span></div></div></div><div class="review-row__spacer"></div><div class='ic_product_details_verified ic_product_details_verified--PL hidden'></div><div class='ic_product_details_officialshop ic_product_details_officialshop--PL hidden'></div></div><div class="coin-info hide"><div class="coin-info__icon ic_coins"></div><div class="coin-info__label r14">Kupuj i zarabiaj do 200 monet Shopee</div><div class="coin-info__tooltip"><div class="ic_help"></div></div></div><div class='shipping_fee_included app_alert ' for='shipping_fee_included'><div class="item_icon ic_delivery"></div><span class="l14 shipping-fee-label">Koszt wysyłki wliczony</span><div class="ic_ex_enlarge"><span class='butt ic_help'></span></div></div></div></div></div><div class="user-interaction-section"><div class='actions flex-it middle-centered-div'><div id='likes' class="web flex1 middle-centered-div like clickable_area"><div id='like-icon' class='ic_icon ic_productdetails_like'></div><div class='text r14 flex1'>Polubienie</div><div class='r14 number-container'><span class='number'></span></div></div><div id='comment-button' class="comment clickable_area flex1 middle-centered-div"><div class='ic_icon ic_productdetails_comment'></div><div class='text r14 flex1'>Komentarz</div><div class='r14 number-container'><span class='number'></span></div></div><div id='share-button' class='share hide'><div class='ic_icon ic_productdetails_share'></div></div></div><a class="shopee-guarantee  hidden" _href="/help_center/answer/3178/"><div class="float-right vertical-align"><div class="ic_arrow_right_black "></div></div><div dir="ltr"><div class="vertical-align"><div class="ic_guarantee"></div><div class="shopee-guarantee-label L14">Shopee gwarantuje bezpieczne zakupy</div></div><div class="L12 shopee-guarantee-text">Shopee gwarantuje bezpieczne zakupy
+Body: Otrzymasz produkt, albo zwrócimy Ci pieniądze. Zakupiony towar możesz odesłać za darmo.</div></div></a><div class='shares m9 web'><a class='sharehreffb' target='_blank'><div class='share-group'><span class='share-btn fb-share'><span class='ic_icon ic_facebook'></span><span class='text'>Share</span></span><span class='share-stat'><div class='talk'>
+					◇
+				</div><div class='number'><div class='inner'>
+						◆
+					</div><span class='count'>
+						0
+					</span></div><span class='count'>
+					0
+				</span></span></div></a><a class='sharehreftw' target='_blank'><div class='share-group'><span class='share-btn tw-share'><span class='ic_icon ic_tweet'></span><span class='text'>Tweet</span></span><span class='share-stat'><div class='talk'>
+					◇
+				</div><div class='number'><div class='inner'>
+						◆
+					</div><span class='count'>
+						0
+					</span></div><span class='count'>
+					0
+				</span></span></div></a><a class='sharehrefpn' target='_blank'><div class='share-group'><span class='share-btn pn-share'><span class='ic_icon ic_pinit'></span></span><span class='share-stat'><div class='talk'>
+					◇
+				</div><div class='number'><div class='inner'>
+						◆
+					</div><span class='count'>
+						0
+					</span></div><span class='count'>
+					0
+				</span></span></div></a></div></div><div class='multi-model-selection clickable_area hidden'><div class='text'><span class='main r14'>
+				Wybierz wariant
+			</span><span class='dec L14'>
+				(Np. kolor, rozmiar)
+			</span></div><div class='ic_arrow_right_black '></div></div><div id='shop-part' class='shop-part-container'><div class='shop-part  PL' data-shopid=''><a _href='/shop/#shopid=' username='' userid=''><div class='top-holder'><div class='avatar-box'><img src='/static/images/ic_avatar_default@2x.png'/></div><div class='center-box'><div class='head-line m15 truncate'></div><div class='gray-line r12 '><div class="ic_exclamation_mark"></div><span class="nowrap" data-lastlogin=""></span></div></div><div class='view-box  r12' data-shopid=><span class="nowrap">Wyświetl sklep</span></div></div><ul class='bottom-holder '><li class='products-box' data-shopid=><div class='box-above'><span class='icon ic_detail_product'></span><span class='text m14'></span></div><div class='box-lower r12'>produkty</div></li><li class='border'>&nbsp;
+				</li><li class='reviews-box' data-shopid=><div class='box-above'><span class='icon ic_detail_positive'></span><span class='text m14'></span></div><div class='box-lower r12'>Pozytywne opinie</div></li><li class='border'>&nbsp;
+				</li><li class='response-rate-box'><div class='box-above'><span class='icon ic_detail_response'></span><span class='text m14'></span></div><div class='box-lower r12'>Odpowiedź na chacie</div></li></ul></a></div></div><div id='detail-part' class='info-part'><div class='detail'><div class="middle-centered-div detail-heading"><div class='heading m14 flex1'>Informacje dot. produktu</div><div class='time middle-centered-div' id='list-time'><div class='ic_icon ic_detail_time_pc'></div><div class='text nowrap'></div></div></div><meta itemprop="description" content="SMARTWATCH V8 ZEGAREK SMART WATCH PL KARTA SIM SD  Gwarancja Shopee | Okazje dnia"/><div class='description text L14'></div><div class='product-tags'></div></div><div class='table hide'><div class='tr category-row middle-centered-div'><div class='r14 th'>Kategoria</div><div class='heavy L14 td flex1 categroy-wrapper'><div class="middle-centered-div tr-padding item-category" itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" style="display: none"><meta itemprop="url" content="mall.shopee.pl/Urządzenia-mobilne-i-gadżety-cat.100013"/><meta itemprop="name" content="Urządzenia-mobilne-i-gadżety"/><meta itemprop="position" content="1"/></span><div class='item-category--first text L14 clickable_area'></div><div class='item-category--second ic_arrow_small'></div><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" style="display: none"><meta itemprop="url" content="mall.shopee.pl/Urządzenia-do-noszenia-cat.100013.100074"/><meta itemprop="name" content="Urządzenia-do-noszenia"/><meta itemprop="position" content="2"/></span><div class='item-category--second text L14 clickable_area'></div><div class='item-category--third ic_arrow_small'></div><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" style="display: none"><meta itemprop="url" content="mall.shopee.pl/Urządzenia-do-noszenia-cat.100013.100074.100270"/><meta itemprop="name" content="Smartwache-i-monitory-fitness"/><meta itemprop="position" content="3"/></span><div class='item-category--third text L14 clickable_area'></div></div></div></div></div><div class='table attributes-table multi-line-support-table hide'></div><div class="table multi-line-support-table"><div class='tr brand-row middle-centered-div'><div class='th r14'>Marka</div><div class='td heavy L14 flex1'><meta itemprop="brand" content="None"/><div class='text tr-padding' id='item-brand'></div></div></div><div class='tr condition-row middle-centered-div'><div class='th r14'>Stan</div><div class='td heavy L14 flex1'><div class='text tr-padding' id='item-condition'></div></div></div><div class='tr model-row middle-centered-div'><div class='th r14'>Warianty</div><div class='td heavy L14 flex1'><div class='text short middle-centered-div'><div class="variation-holder flex1"><div id='item-variations'></div></div><span class='ic_icon ic_arrow_right '></span></div></div></div><div class='tr stock-row middle-centered-div'><div class='th r14'>W magazynie</div><div class='td heavy L14 flex1'><div class='text tr-padding' id='item-stock'></div></div></div><div class='tr shipfrom-row middle-centered-div'><div class='th r14'>Wysyłka z</div><div class='td heavy L14 flex1'><div class='text flex-it' id="item-shipfrom-container"><p id="item-shipfrom">&nbsp;</p></div></div></div></div></div><div id='review-part' class='review-part'><span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" style="display: none"><meta itemprop="itemReviewed" content="SMARTWATCH V8 ZEGAREK SMART WATCH PL KARTA SIM SD"/><meta itemprop="ratingValue" content="3.0"/><meta itemprop="ratingCount" content="4"/><meta itemprop="bestRating" content="5"/><meta itemprop="worstRating" content="0"/></span><div id='review-template' class='review'><div class="flex-it"><div class='left'><a><div class='image-container'><div class='image' style='background-image:url(/static/images/ic_avatar_default@2x.png)'></div></div></a></div><div class='right flex1 flex-it'><div class="flex1"><a><div class='name r12'></div></a><div class="buyer-review-part middle-centered-div hidden"><div class="ui-stars middle-centered-div"><div class="ui-star" data-star="1"></div><div class="ui-star" data-star="2"></div><div class="ui-star" data-star="3"></div><div class="ui-star" data-star="4"></div><div class="ui-star" data-star="5"></div></div></div><div class='comment text r14'></div><div class='item-images'></div><div class='param'><div class='time'><span class='timetext L12'></span><span class="variation-wrapper"><span class="separator L12">|</span><span class="variation-lable L12">Wariant:&nbsp;</span><span class="variation-name L12"></span></span></div></div></div></div></div></div><div class="reviews"><div class="reviews__header"><div class="reviews__header__content"><div class="reviews__header__content__title m14">Oceny produktu</div><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div></div><div class="item_rating__rating-info__score L14"></div><div class="item_rating__rating-info__count L14"></div></div></div><div class="reviews__header__see-all clickable_area"><span class="see-all-text">Zobacz wszystkie</span><div class="ic_arrow_right_orange see-all-arrow"></div></div></div><div id='review-container' class="review-container"></div></div><div class='view-all-comments'><div class='no-comment r14'>Brak ocen</div><div class="leave-a-comment r14">Zostaw komentarz</div><div class='text m14'><span>Pokaż wszystkie</span><span class='number'></span><span
+						class='comment_text'>Komentarze</span></div></div></div><div class="from-same-shop center-container hidden"><div class="from-same-shop__header L12 middle-centered-div"><div class="flex1 m14">Z tego samego sklepu</div><div class="middle-centered-div clickable_area see-all-wrapper hidden"><span class="see-all-text r14">Zobacz więcej</span><span class="ic_arrow_right_orange see-all-arrow"></span></div></div><div class="from-same-shop__items hide-scrollbar"></div></div><div class="recommend-products center-container hidden"><div class="recommend-products__header L12 middle-centered-div"><div class="flex1 m14">Może Ci się także spodobać</div><div class="middle-centered-div clickable_area see-all-wrapper hidden"><span class="see-all-text r14">Zobacz więcej</span><span class="ic_arrow_right_orange see-all-arrow"></span></div></div><div class="recommend-products__items hide-scrollbar"></div></div><div id='second-layer' class="center-container"></div><div id='cover' class='cover web_pannel__cover'></div><div class='shipping-fee-panel-mask'></div><div class='shipping-fee-panel'><div class='title r14'>
+				Informacja odnośnie do opłaty za wysyłkę
+			</div><div class='deliver-to'><div class='delivery-to-text'>
+					Wysyłka do
+				</div><div class='address-name js-selected-address'></div><div class="ic_arrow_right_black"></div></div><div class='delivery-list'></div><div class='confirm-btn'>
+				potwierdź
+			</div></div><div id='float-bottom' class='float-bottom center-container hidden'><div class='inner flex-it'><div class='left flex1'><div id='chat-to-offer' class='clickable_area'><div class='ic_icon ic_offer_chat'></div><div class='text m14 PL'>Czatuj</div></div><div id='offer-count' class='r14'><span>Masz</span> 0 <span>oferty</span></div></div><div class="padding-12"></div><div class='right flex1'><div id='buy-button' class='m14 clickable_area flex1'>kup teraz</div><div id='viewoffer' class="clickable_area">Zobacz oferty</div></div></div><div class='snapshot_view bottom_view' style='display:none;'><div class='text'>To jest zdjęcie produktu</div><a class='view-href'><div class='view-butt'>Na żywo</div></a></div><div class='banned_view bottom_view' style='display:none;'><div class='text'>Ten produkt został zawieszony.</div><a class='update-href'><div class='view-butt'>Aktualizacja</div></a></div></div><div id='float-bottom-for-buyer' class="center-container hidden"><div class='left'><div id='new-chat-to-offer' class="flex-col inner align-bottom clickable_area  "><div class='ic_offer_chat icon'></div><div class='text r10'>Czatuj</div></div><div class="bar">&nbsp;</div><div id='new-add-to-cart' class="flex-col inner align-bottom clickable_area"><div class='ic_cart_add icon'></div><div class='text r10'>Do koszyka</div></div></div><div id='buy-button-new' class='right r14 clickable_area'><div class="buy-label">kup teraz</div></div></div><div class="scroll-view-dark-cover"></div><div class="scroll-view-details official-shop-selling-points-details hidden"><div class="title m16">label_official_shop_selling_points--PL</div><div class="scroll-view-scroll-content points hide-scrollbar"></div><div class="scroll-view-bottom-button button button--understand">Kontynuuj zakupy</div></div></div>
+
+
+
+	<div class='web-popup-mask'></div>
+<div class='web-popup-holder center-container'>
+	<div class='title'></div>
+	<div class='image'></div>
+	<div class='text'></div>
+	<div class='button'></div>
+</div>
+
+	<div class='web-popup-box-mask'></div>
+<div class='web-popup-box-holder center-container'>
+	<div class='title'></div>
+	<div class='image'></div>
+	<div class='text'></div>
+	<div class='cancel'></div>
+	<div class='confirm'></div>
+</div>
+
+	
+<div id="_alert_bg" class="hidden">
+	<div id="_alert_content" class="center-container">
+		<div class='img hidden'></div>
+		<span></span>
+		<div class="middle-centered-div alert-btn-group">
+			<div class="btn-dismiss-alert flex1">nie</div>
+			<div class="btn-confirm-alert flex1">tak</div>
+		</div>
+	</div>
+</div>
+<div id="_alert_msg" class="center-container hidden">
+	<div class='img hidden'></div>
+	<span></span>
+	<div class="middle-centered-div alert-btn-group">
+		<div class="btn-dismiss-alert flex1">nie</div>
+		<div class="btn-confirm-alert flex1">tak</div>
+	</div>
+</div>
+
+
+	
+
+	<div class='page_hide'></div>
+	<div class='general-mask'></div>
+
+
+
+
+	
+	
+
+
+
+	<script>
+{
+	var dur = (Date.now ? Date.now() : +new Date()) - QOS_PAGE_START_MS;
+	if(window._track_qos_pageload)
+		_track_qos_pageload(dur);
+	if(window.BI_ANALYTICS)
+		BI_ANALYTICS.qos(QOS_TYPE.HTML, dur);
+}
+
+if(window.__plvNeedSaveAllNodesState__)
+{
+	// __plv_saved_body__ = document.children[0].innerHTML;
+	window.__plv_saved_body__ = document.body.innerHTML;
+}
+</script>
+
+
+
+
+
+</body>
+</html>
